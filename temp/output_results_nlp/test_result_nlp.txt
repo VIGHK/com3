@@ -1,0 +1,32 @@
+Baidu mobile application collect personal information.
+Baidu mobile application use personal information.
+Baidu mobile application protect personal information.
+Baidu mobile application share personal information.
+Baidu mobile application transfer personal information.
+Baidu mobile application publicly disclose personal information.
+Baidu mobile application store personal information.
+Baidu mobile application process personal information of minors.
+Baidu mobile application update policy.
+Baidu mobile application contact users.
+Baidu mobile application synchronize accounts and usage records.
+Baidu mobile application unify accounts and usage records.
+Baidu mobile application provide consistent services and user experience.
+Baidu use personal information.
+Baidu collect personal information.
+Baidu process personal information.
+Baidu record search history.
+Baidu record browsing history.
+Baidu record live broadcast information.
+Baidu record device information.
+Baidu record other log information.
+Baidu use search history.
+Baidu use browsing history.
+Baidu use live broadcast information.
+Baidu use device information.
+Baidu use other log information.
+Baidu collect information on your device.
+Baidu store information on your device.
+Baidu show search history.
+Baidu record activity information.
+Baidu not record search history.
+Baidu not record browsing history.

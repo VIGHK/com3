@@ -1,0 +1,153 @@
+Tencent video process sensitive personal information.
+Tencent video collect personal information.
+Tencent video use personal information.
+Tencent video share personal information.
+Tencent video apply for system permissions.
+Tencent video obtain information.
+Tencent video revoke authorization of system permissions.
+Tencent video collect new personal information.
+Tencent video change purpose or mode of using personal information.
+Tencent video inform collection of personal information.
+Tencent video obtain consent collection of personal information.
+Tencent video register/login account information.
+Tencent vedio collect ssid.
+Tencent vedio synchronize avatar and nickname with creation number.
+Tencent vedio use account information and movie viewing record.
+Tencent vedio use movie viewing records, gender, age interval, barrage.
+Tencent vedio collect transaction goods or services information, receipt information, name of the consignee, delivery address, contact number, transaction amount, transaction date, order merchant, order number, order status, payment method, payment account, payment status, virtual goods and services consumption record, qq card card number and password, member account opening time, joint member account information, corporate email address.
+Tencent vedio verify identity.
+Tencent vedio record account binding mobile number and member asset transfer record.
+Tencent vedio collect wechat or qq account, wechat or qq friend relationship list, wechat or qq avatar and nickname.
+Tencent vedio use mobile phone number.
+Tencent vedio collect welfare refund exchange gold coin record, cash withdrawal record, prize record, novel channel consumption records, book coupon details, purchased books, my bookshelf collected books and reading records, chicken leg quantity information and usage records, collection record, redeem record, points charity donations for public welfare projects, donations for points, raising donations and details records.
+Tencent vedio collect delivery progress of your goods with logistics-related service entities.
+Tencent vedio collect pictures, texts, audio and videos, nickname, avatar, published information content, tencent video account id, interactive information, likes, share, comments, interaction records, collection records.
+Wechat authorize camera permissions.
+Wechat authorize album permissions.
+Wechat call clipboard function.
+Wechat authorize microphone permissions.
+Wechat collect voice information.
+Wechat authorize ip address.
+Wechat display ip address.
+Wechat collect wechat or qq account, avatar, nickname, purchase record.
+Wechat collect delivery address, contact name, contact phone number.
+Little goose money and maoyan mini program collect wechat or qq avatar, nickname.
+Wechat authorize camera permissions.
+Wechat collect avatar, nickname.
+Wechat call clipboard function.
+Wechat collect device information.
+Wechat authorize device calendar permissions.
+Wechat collect tencent video account id and appointment records.
+Wechat collect mobile phone number.
+Wechat send notifications.
+Tencent video collect oaid.
+Tencent video collect device information guid.
+Tencent video collect ip address.
+Tencent video collect browsing and operation records.
+Tencent video request storage permissions.
+Tencent video collect idfv.
+Tencent video analyze device information, purchase record, follow, click, favorite, browse, download record, like, share, comments, interactive objects, search terms, gender, age, sketchy position information.
+Tencent video provide personalized services.
+Tencent video use device identifier oaid, idfv, idfa, advertising data exposure, click, conversion data, device information, app application and usage data, interest tags.
+Tencent video provide advertisements.
+App use gyroscope, acceleration, gravity sensor.
+App write clipboard content.
+App infer indirect portrait with tencent video.
+App collect location, gps, cellid, nearby wifi wlan with third-party h5 pages.
+App collect wechat account, qq number, account information.
+App collect mobile phone number, wechat number, qq number, communication records.
+App collect device information guid, tencent video account id, network situation, application version, access page, payment order number.
+App collect ip address, geographical location.
+Tencent wenxi collect identity information, rights certificate.
+App collect email address.
+App access microphone, camera, album, storage permissions.
+Tencent video collect sex, status, record, game friend data, game friend relationship chain, friend interaction, gifts, friends chatting.
+Tencent video verify event information with third-party game.
+Tencent video collect account information.
+Tencent video request microphone permissions, device sensors.
+Tencent video collect personal information with specific game.
+Tencent video determine game installation status.
+Tencent video collect distance information between face and device screen.
+Tencent video collect device capabilities.
+Tencent video collect hardware type, model, solid part version, region and language settings, hardware system version number, ip address, terminal device type, software and hardware feature information, internet service provider, network operation business, device model, terminal manufacturer, terminal device operating system version, session start/stop time, network status, hard disk, cpu, internal save usage status.
+Tencent video conduct user surveys.
+Tencent video collect account name, account profile, avatar information.
+Tencent video collect surname of the legal representative or account operator, id card information (id card number, id card photo), facial information (static or dynamic), mobile phone number.
+Tencent video collect contact name, contact mobile phone number, contact email, contact place, contact address.
+Tencent video collect name, ordering personnel mobile number, order information (service name, service fee, service merchant).
+Tencent video share subscribers name, subscribers mobile number with suppliers.
+Tencent video use name, id card-related information, facial information (static or dynamic), mobile phone number with partners.
+Tencent use realname authentication information.
+Tencent share personal information with third party.
+Tencent video collect camera captures.
+Tencent video process camera captures.
+Tencent receive personal information with third parties.
+Tencent video collect mobile phone number, ip address, mobile phone model, operator information with operators.
+Tencent video not collect name, id number, link telephone, delivery address, detailed address.
+Tencent video use location permissions, bluetooth permissions with third-party applications.
+Tencent video collect ssid with third-party applications.
+Tencent video use acceleration sensor, gravity sensor, gyroscope sensor.
+Our products and/or services collect login information, device information, personal internet records, preference data.
+Our products and/or services use cookies and similar technologies.
+Our products and/or services store personal information.
+Our products and/or services delete personal information.
+Our products and/or services anonymize personal information.
+Our products and/or services provide personal information with overseas recipient.
+Tencent vedio protect personal information.
+Tencent vedio use technical protections.
+Tencent vedio encrypt information.
+Tencent vedio understand application information.
+Tencent vedio prevent malicious programs.
+Tencent vedio establish internal management systems.
+Tencent vedio provide safety education and training.
+Tencent vedio build personal information security management system.
+Tencent vedio share personal information with external service providers.
+Tencent vedio share personal information with third-party companies, organizations or individuals outside our group.
+Tencent vedio require data privacy protection with companies, organizations and individuals of personal information.
+Tencent video share name, mobile number with supplier.
+Tencent video share data with advertisers, agents, other third-party partners.
+Tencent video share personal information with third-party sdk partner.
+Tencent video transfer personal information with company, organization or individual.
+Tencent video disclose personal information.
+Tencent video query wechat or qq avatar, nickname, mobile phone number.
+Tencent video query video playback history, novel and comic viewing record.
+Tencent video query series and personal album follow-up records, appointment records.
+Tencent vedio query appointment records.
+Tencent vedio query video, novel, and application download records.
+Tencent vedio query list creation and collection record.
+Tencent vedio query series, film list, personal album and short video collection records.
+Tencent vedio query birthday, mobile phone number, email address, delivery address, associated account number.
+Tencent vedio query nickname, gender, birthday sign, and location.
+Tencent vedio query order information and the name, address and phone number of the consignee.
+Tencent vedio query download application records, game information authorization status, gift package welfare records, and appointment game records.
+Tencent vedio query points details and points orders.
+Tencent vedio query my bookshelf collection books and reading records.
+Tencent vedio query chicken legs quantity information and usage records.
+Tencent vedio provide copy of personal information with third party designated by you.
+Tencent vedio correct nickname, gender, birthday sign, and location.
+Tencent vedio correct birthday, mobile phone number, email address, delivery address.
+Tencent vedio change mobile phone number of your tencent video account.
+Tencent vedio correct consignees name, address and phone number.
+Tencent vedio delete video, novel and comic viewing record.
+Tencent vedio delete series and personal album addon records and followon records and appointment records.
+Tencent vedio delete video, novel, and application download records.
+Tencent vedio delete list creation and favorite record.
+Tencent vedio delete series, film list, personal album and short video collection records.
+Tencent vedio delete collected books, reading records.
+Tencent vedio delete consignees name, address, phone number.
+Tencent vedio delete posts, comments, videos.
+Tencent vedio request delete personal information.
+Tencent vedio revoke location, camera, album permissions.
+Tencent vedio withdraw personalized content recommendation authorization.
+Tencent vedio withdraw personalized ad push authorization.
+Tencent vedio cancel account.
+Tencent vedio explain privacy protection guidelines.
+Tencent vedio request explain automatic decision-making mechanisms.
+Tencent vedio exercise rights deceased user personal information.
+Tencent vedio provide feedback request response.
+Tencent video verify personal information.
+Tencent video revise privacy guidelines.
+Tencent video not process personal information of minors under 18.
+Tencent video process personal information of children under 14.
+Tencent video contact personal information protection.
+Tencent video review personal information issues.

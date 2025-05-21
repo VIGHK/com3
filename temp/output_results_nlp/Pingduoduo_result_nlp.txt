@@ -1,0 +1,101 @@
+Pinduoduo display avatar.
+Pinduoduo display nickname.
+Pinduoduo collect id information.
+Pinduoduo collect facial information.
+Pinduoduo recommend identity information.
+Pinduoduo collect equipment information.
+Pinduoduo collect log information.
+Pinduoduo collect search history.
+Pinduoduo collect browsing history.
+Pinduoduo collect collection and record.
+Pinduoduo collect attention relationships.
+Pinduoduo share productservice information with third parties.
+Pinduoduo recommend content.
+Pinduoduo send commercial short message.
+Pinduoduo show ads.
+Pinduoduo collect order information.
+Pinduoduo fill name of the consignee.
+Pinduoduo fill address.
+Pinduoduo fill receiving mobile phone number.
+Pinduoduo collect order number.
+Pinduoduo collect productservice information.
+Pinduoduo collect order time.
+Pinduoduo collect offer used.
+Pinduoduo collect transaction amount.
+Pinduoduo collect payment method.
+Pinduoduo collect id information.
+Pinduoduo use order information.
+Pinduoduo use payment information.
+Pinduoduo share payment information with wechat pay.
+Pinduoduo share payment information with alipay.
+Pinduoduo share payment information with duoduo wallet.
+Pinduoduo share payment information with qq wallet.
+Pinduoduo collect delivery information.
+Pinduoduo collect consignee's name.
+Pinduoduo collect delivery address.
+Pinduoduo collect delivery mobile phone number.
+Pinduoduo collect account information.
+Pinduoduo collect communication history.
+Pinduoduo collect questionnaire reply.
+Pinduoduo obtain account information, transaction information, device information, application list information, version information, android id, imei, oaididfa, harmonyos oaid, mac address, device network environment, acceleration sensor information, log information with affiliated companies and partners.
+Pinduoduo share information with affiliated companies and partners.
+Pinduoduo publish reviews, comments, pictures, texts, videos, purchased products/services information.
+Pinduoduo display head images, nicknames, comment content.
+Pinduoduo collect avatar, nickname, published text, pictures, audio, video, related links, positioning, comments, interaction information.
+Pinduoduo use following, like, interaction, search, browsing, forwarding records.
+Pinduoduo add friends.
+Pinduoduo read address book.
+Pinduoduo interact mobile phone numbers, address books.
+Pinduoduo display avatar, nickname, live room comments, likes, followers, rewards, gifts, order publishing information.
+Pinduoduo collect interaction situation.
+Pinduoduo access clipboard.
+Pinduoduo read mobile album.
+Pinduoduo collect personal information.
+Pinduoduo use personal information.
+Pinduoduo share personal information with third-party sdks.
+Pinduoduo collect cookies.
+Pinduoduo use cookies.
+Pinduoduo collect network beacon.
+Pinduoduo use network beacon.
+Pinduoduo share personal information with administrative and judicial organs.
+Pinduoduo store personal information.
+Pinduoduo protect personal information.
+Pinduoduo use ssl encryption.
+Pinduoduo provide https safe browsing mode.
+Pinduoduo use encryption technology.
+Pinduoduo prevent data.
+Pinduoduo access personal data.
+Pinduoduo prevent personal information leakage.
+Pinduoduo set up emergency plans.
+Pinduoduo perform reporting and notification obligations.
+Pinduoduo set up personal information protection team.
+Pinduoduo organize security and privacy protection training courses.
+Pinduoduo share transaction content, contact information, exchange information or share content with third party.
+Pinduoduo disclose contact information or contact address with counterparty in the transaction.
+Pinduoduo inform security incidents.
+Pinduoduo report handling of personal information security incidents with regulatory department.
+Pinduoduo review user personal information.
+Pinduoduo correct user personal information.
+Pinduoduo supplement user personal information.
+Pinduoduo view personal basic information.
+Pinduoduo edit personal basic information.
+Pinduoduo view search history.
+Pinduoduo clear search history.
+Pinduoduo view browsing history.
+Pinduoduo clear browsing history.
+Pinduoduo view order records.
+Pinduoduo clear order records.
+Pinduoduo view transaction records.
+Pinduoduo view works.
+Pinduoduo delete works.
+Pinduoduo check personal information.
+Pinduoduo export basic account information.
+Pinduoduo copy personal information.
+Pinduoduo delete personal information.
+Pinduoduo notify personal information with subject of obtaining your personal information.
+Pinduoduo change authorization scope.
+Pinduoduo withdraw authorization.
+Pinduoduo cancel account.
+Pinduoduo delete personal information.
+Pinduoduo anonymize personal information.
+Pinduoduo notify service termination.

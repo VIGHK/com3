@@ -1,0 +1,838 @@
+Tencent Video Privacy Protection Guidelines
+Tencent Video Privacy Protection Guidelines
+Updated: 2025-01-06
+Effective Date: 2025-01-13
+Version update prompts:
+Version update prompts:
+.
+In order to better protect your rights, we recently updated the "Tencent Video Privacy Protection Guidelines".
+The content of this update is:
+1. Based on the new functions, increase the application status of system permissions. 
+Please read carefully and fully understand the full text before using/continue to use Tencent Video products and/or services, and use/continue to use after agreeing to all content.
+Reading Tips
+Reading Tips
+.
+(1) Please read carefully and fully understand the full text of the "Tencent Video Privacy Protection Guidelines" before using/continue to use Tencent Video's products and/or services, and
+Use/continue to use after agreeing to all content. Unless otherwise stated, we do not agree to the "Tencent Video Privacy Protection Guidelines" or its updates (we will notify you of this type in a timely manner.
+Update) may affect your normal use or continue to use our products and/or services.
+(2) In order to facilitate you to quickly understand the content of the "Tencent Video Privacy Protection Guidelines", we will use the "Tencent Video Privacy Policy Summary"
+Tencent Video Privacy Policy Summary
+》To give you a simple and intuitive explanation
+How we process and protect your personal information. For more information about our processing rules on your personal information, please refer to the full version of "Tencent Video Privacy Protection Guidelines"
+lead".
+Introduction
+Introduction
+.
+(1) Tencent Video is made by Shenzhen Tencent Computer Systems Co., Ltd.
+Online audio and video products provided by Shenzhen Tencent Computer Systems Co., Ltd. (hereinafter referred to as "we"), our registration place
+It is the 35th Floor, Tencent Building, Maling Community, Science and Technology, Yuehai Street, Nanshan District, Shenzhen, Guangdong Province
+Registration place
+It is the 35th floor of Tencent Building, Zhongyi Road, Maling Community, Yuehai Street, Nanshan District, Shenzhen City, Guangdong Province. At the same time, we will also jointly operate with affiliated companies during the product operation process.
+camp. If you have any questions or concerns about these guidelines or related issues, please contact us through the contact information provided in Section 10 of these guidelines, “Contact Us”
+Tie.
+(2) This privacy protection guide applies to us through Tencent Video website (https://v.qq.com/), Tencent Video PC terminal, TV terminal, and App (including but not limited to
+All products provided by all terminal clients such as iOS version, Android version, HarmonyOS version), iPad terminal, and mini programs (hereinafter referred to as "platform") to you by all products provided by all terminal clients (hereinafter referred to as "platform").
+Products and services. If a certain client or application software version has special functions or special personal information processing activities, we will explain it. Like our customers
+If the terminal, product and/or service has a separate privacy policy/privacy agreement, the separate privacy policy/privacy agreement shall be preferred over this Privacy Protection Guidelines;
+This Privacy Protection Guidelines shall apply to content not mentioned in the Privacy Policy/Privacy Agreement. Specifically:
+1) We provide you with various products and services through Tencent Video's vehicle terminal and Tencent Video Audio terminal, and apply to the "Tencent Video (Smart Screen Version) Privacy Protection Directive
+Tencent Video (Smart Screen Version) Privacy Protection
+lead
+》.
+》.
+2) The products and services we provide to you through Tencent Video Mini Programs are applicable to the "Tencent Video (Mini Programs) Privacy Protection Guidelines
+》.
+3) We provide you with various products and services through Tencent Video VisionOS version, and apply to the "Tencent Video VisionOS version Privacy Protection Guidelines
+Tencent Video (Mini Program) Privacy Protection Guide
+》.
+Tencent Video VisionOS Version Privacy Protection Guide
+》.
+Please note that this Privacy Policy does not apply to any third-party applications or software integrated with our platform, products and/or services, or any other third-party applications or software, or to any other
+Please note that this Privacy Policy does not apply to any third-party applications or software integrated with our platform, products and/or services, or any other third-party applications or software, or to any other
+Tripartite products, services or businesses (collectively, "third-party services").
+Tripartite products, services or businesses (collectively, "third-party services"). Third-party services are operated by third parties, and your use of third-party services shall comply with the third party for this purpose.
+In the privacy policy or other personal information processing rules, we prompt you to carefully identify the actual service provider and to use any third-party service before using
+Check out the relevant rules in detail.
+(3) We are in this guideline for the processing of terms involving material relationships with your rights (possible) and related to sensitive personal information (as defined in the Appendix).
+For relatedTerms that have a material relationship with your rights (possible) and processing involving sensitive personal information (defined in the Appendix) are in this guideline
+You will be prompted to read in bold, underlined or other reasonable ways.
+You will be prompted to read in bold, underlined or other reasonable ways.
+(4) You agree that these guidelines mean that you have understood and agree that in relevant scenarios, we will process your relevant personal information in order to achieve functional operation. But this
+You agree that these guidelines mean that you have understood and agree that in relevant scenarios, we will process your relevant personal information in order to achieve functional operation. But this
+It does not mean that as long as you begin using our products and/or services, we will process all personal information involved in this guideline. Only when you use a specific feature, I
+It does not mean that as long as you begin using our products and/or services, we will process all personal information involved in this guideline. Only when you use a specific feature, I
+Only in accordance with the principle of "minimum necessity" will we process your relevant personal information to achieve the purpose of providing services to you.
+Only in accordance with the principle of "minimum necessity" will we process your relevant personal information to achieve the purpose of providing services to you.
+(5) In addition to these guidelines, in specific scenarios, we will promptly inform you (including but not limited to updating these guidelines, re-signing documents, page prompts, and bullets
+) In addition, the rules of the processing purpose, method, scope and other rules of the corresponding information will be explained in detail to you.
+And process it after obtaining your authorization and consent.
+This privacy guidelines will help you understand the following:
+1. Collection and use of personal information
+2. Use of similar technologies such as cookies
+3. Storage of information
+4. Information security
+5.
+Information Sharing
+6. Your rights
+7. Change
+8. Protection of minors
+9. Others
+10. Contact Us
+Information we collect and use the information we share
+1. Collection and use of personal information 1. Collection and use of personal information
+.
+To help you quickly understand the main situation of our collection and use of personal information, we have explained it in a list. You can click to view "Tencent Tencent"
+List of personal information collected by video. List of personal information collected by video. List of personal information collected by video.
+【Principles and Ways】We will follow the principles of legality, legitimate, minimally necessary, open and transparent to collect and use you in the process of using our products and/or services
+Proactively provide or arising from the use of our products and/or services.
+[System Permissions] System permissions such as camera, album (storage), microphone, etc. will not be enabled by default. We will only send you the relevant business functions
+Apply for relevant permissions and obtain corresponding information (if involved). Please rest assured that our access permission is limited to the implementation of specific functions and you can
+Revoke the authorization of system permissions at any time. If you refuse or withdraw the authorized system permissions, it will prevent you from using the corresponding functions, but it will not affect your normal use of the product and/or
+or other functions of the service. Click to view "Tencent Video Application and Usage Description Tencent Video Application and Usage Description".
+[Business Function] The types of personal information we collect will vary depending on the content of the product/service, and the specific details shall be subject to the actual provision of the product/service. for
+Provide a complete experience, we will continuously improve our products and services, and may therefore need to collect new personal information or change the purpose or purpose of using personal information
+Mode. If a function or scenario that requires the collection of your personal information is not explained in this guideline, or we exceed the collection of your personal information.
+If the claimed purpose and the scope of the relationship is directly or reasonably related, we will inform you again and obtain your consent in accordance with relevant requirements of laws and regulations.
+  
+Normally, we will collect your personal information or apply for relevant permissions in the following scenarios: Normally, we will collect your personal information or apply for relevant permissions in the following scenarios:
+1.1 Account registration, login and binding 1.1 Account registration, login and binding
+You can register/log in Tencent Video through QQ account, WeChat account, and mobile phone number. When you authorize login to Tencent Video through your QQ account or WeChat account, we will
+Collect your QQ account identifier or WeChat account identifier, avatar, and nickname to verify your identity when you log in to your account; when you register and log in with your mobile phone number
+When Tencent Video, we will collect your mobile phone number and useWhen you log in to your account, you will receive a verification code or local number and log in with one click to verify your identity. By phone
+Tencent Video Account registered with a number can be bound to a social account (WeChat account or QQ account) to achieve quick login. If you log in through this method, we will receive it.
+Collect your mobile phone number, WeChat identifier or QQ account identifier, avatar, and nickname to verify your identity when you log in to your account; at the same time, we will also collect you
+QQ QQ or WeChat friend relationship or WeChat friend relationship are used to complete consumer purchases in Tencent Video. For details, please see 1.6 "Order and Payment".
+You can add personal information in Tencent Video. You can choose to fill in your gender, nickname, avatar, self-introduction, birthday, zodiac sign, location, and decide on your own.
+Determine whether to display it. If you do not fill in it, it will not affect your basic functions of using our products and/or services.
+When you use Tencent Video Digital Collection Service, we will collect the QQ account or WeChat account used when you log in to Tencent Video, QQ account or WeChat account, nickname, avatar, mobile phone number, mobile phone number, and mobile phone number.
+Code code, ID number, ID number, face comparison information, face comparison information, name and name, and generate the address to the link for you based on mobile phone number, ID number, ID number, name and face comparison information.
+1.2 Account information maintenance 1.2 Account information maintenance
+To facilitate your personal information to be viewed and maintained within Tencent Video, you can choose to fill in your gender, nickname, avatar, mobile phone number, and email address.
+Address, delivery address, delivery address, self-introduction, birthday, zodiac sign, location, Tencent Video Account ID, associated account, shared device, this will help us provide you with more
+A personalized experience. If you do not fill in it, it will not affect your basic functions of using our products and/or services.
+When you upload/replace your avatar, we will request your camera, photo album permissions, and collect the picture information you upload/replace after you authorize.
+Please note that if you use an iOS device to log in to our platform and your device system is iOS 14 or above, you can choose to turn off the precise positioning information.
+We will only obtain your rough geographic location, turning off precise positioning information will not affect your normal use of this feature. You can also use the system related to your device at any time
+The function setting page enables/cancels this permission. After you update the App version, we will not change the permission status you set before without your explicit consent.
+If you are a Tencent Video member, you can view your membership identity, level, V power value, points, and rights review data (including event prizes, member gift cards, and discounts)
+coupons, etc.); in order to verify your membership identity, we will collect your membership status, membership duration, membership level, activation and renewal VIP records, and movie viewing records
+Record, equity winning information. In order to ensure the security of your account when using Tencent Video membership, we recommend that you bind your mobile phone number. When you use membership services, you can
+You can obtain the verification code through your bound mobile phone number for verification. When you use the CDK to exchange member rights function in the "VIP Help Service Center", we will receive
+Set the redemption code and your bound mobile phone number, and complete verification and redemption after obtaining the verification code through your bound mobile phone number. We may log in according to your membership account
+Record the number of devices, the use of member services in the same time period, etc., to determine whether there is any violation, you can visit the "VIP Member Help Service Center" to view
+Related records.
+When you log out of your Tencent Video account, in order to verify your identity, we will collect your WeChat or QQ account, avatar, and nickname; if your account is bound to your mobile number
+You need to enhance verification by receiving SMS verification code; if your account has not been bound to a mobile phone number, you need to check the commonly used login location,
+Commonly used to log in to the device model to perform enhanced verification.
+1.3 Real-name authentication 1.3 Real-name authentication
+You can enable Tencent Video Live, upload local videos, enter games, open Tencent Video VIP/Tencent Sports VIP Youth V Card, and enable youth guardian mode (including
+Password recovery), Creative number registration, certification, wallet withdrawal and digital collection transaction, use the "see together" function, use the "chicken leg" function, purchase our free
+During traffic services, in order to comply with relevant laws, regulations, regulatory requirements and Tencent Minor Health Internet Protection Plan, ensure the authenticity of user identity and verify your identity.
+to ensure the safety of you and other users andIt is convenient for you to participate in exclusive promotional activities. We will collect your true identity information, including your name, ID number, ID number
+Code code, mobile phone number, mobile phone number, face comparison information, face comparison information, school (optional) (depending on the actual situation, the real identity information collected in different scenarios may be different). But please note
+Yi, Tencent Health System will independently collect and use your information, which may include your sensitive personal information. Tencent Video will not collect this information, you must
+Before submitting information, agree to the "Tencent Health System Personal Information Protection Rules Tencent Health System Personal Information Protection Rules".
+If you are a Tencent Video member, in order to maintain account security and participate in exclusive promotional activities, you can choose real-name authentication in the "VIP Help Service Center" and ask us
+Provide your name and ID number to complete real-name authentication.
+When you purchase digital collections, in order to comply with relevant laws, regulations and regulatory requirements, ensure the authenticity of user identity, verify your identity, and protect you and other users in order to comply with relevant laws, regulations and regulatory requirements.
+We will collect your true identity information, including your name, ID number, ID number, mobile phone number, mobile phone number and face comparison information.
+It should be noted that third-party services (for example: games operated by third parties, traffic-free services from third-party telecom operators) may also require you to undergo real-name authentication and that third-party services (for example: games operated by third parties, traffic-free services from third-party telecom operators) may also require you to perform real-name authentication and
+Collect your information. At this time, Tencent Video will not collect this information from you. You are prompted to carefully identify the provider of the actual service and collect your information when using any third-party services. At this time, Tencent Video will not collect this information from you. Prompt you to carefully identify the provider of the actual service and to use any third-party service
+Check the relevant privacy policies or personal information processing rules carefully before. Check the relevant privacy policies or personal information processing rules carefully before.
+1.4 Content Search 1.4 Content Search
+When you use the search function, we will automatically collect the keyword information you entered and search history search history. In order to provide efficient search services, some of the aforementioned information will be temporarily
+When stored on your local device, you can show you search history.
+When you use the voice search function, we will ask you to authorize microphone permissions and collect your voice information.
+1.5 Content browsing/play/download/subscribe 1.5 Content browsing/play/download/subscribe
+(1) In order to better provide you with content recommendation display, optimize search results, understand the product's adaptability to different hardware devices, and ensure the operating environment safety
+All uses, identify abnormal status of the account, and other purposes. When you use our video, audio, live broadcast, electronic reading materials (books, comics) and other services to play and browse
+When possible, we will collect your device information and log information.
+The above-mentioned device information includes: Android ID, GUID, device model, system version; log information log information includes Tencent video account, play video ID, play time,
+Software version model, your operations, behavior log information (browsing records, playback records, playback duration, access date and time, collection/follow/subscribe/reading records collection/follow/subscribe/reading records
+record).
+(2) When you use the video download function, we will request you to authorize storage permissions to write related information about audio and video files in the external storage space of your device.
+interest.
+(3) When you use the playback and browse functions of short video service content, in order to preload the playback address and cache playback resources with different clarity, we will be in your
+When the network state changes, collect your SSID.
+(4) When you are a fan, we will synchronize your avatar and nickname in Tencent video to the creation number to generate its fan list
+The fan list is only visible to the creation number; we will use it to help the creator better understand the fan group based on the account information you log in and the movie viewing record.
+Your information will be presented in a summary form and will not be associated with specific users.
+(5) After disconnecting from your identity, we may use some information (based on the actual submission and usage of the user, including movie viewing records, gender,
+Age interval, barrage, etc.) is used in a summary form for segmentationAnalyze and research to optimize our products and services.
+1.6 Order and Payment 1.6 Order and Payment
+(1) When you purchase our products and/or services, it includes activation/renewal of VIP, activation of joint membership, purchase of youth V cards, in-buyment of enterprises, and paid purchase points
+Broadcast and live broadcast, recharge diamonds, purchase digital collections and digital souvenirs, place orders in malls, grasslands and goose outside surprises (live broadcasts), and pay for games to facilitate assistance
+You successfully complete the transaction, query order information, and provide you with customer service and ensure the safety of your transaction. We need to collect the following according to the product or service type
+Part or all of personal information: transaction goods or services information transaction goods or services information, receipt information (name of the consignee, name of the consignee, delivery address, delivery address and contact number), transaction amount, transaction amount, when placing an order
+Intermediate, transaction date, transaction date, order merchant order merchant, order number, order number, order status, order status, payment method, payment account payment account, payment status, virtual goods and services consumption record virtual goods and services consumption record (such as
+Superpowers, props, diamonds, game viewing tickets, points), QQ card (card number and password) QQ card (card number and password), relevant member account opening time, joint member account information, corporate email address
+address. When you purchase youth V cards and digital souvenirs, we also need to verify your identity before the transaction to ensure the correctness of the transaction object and the transaction
+For security, please refer to 1.3 "Real Name Authentication" for information collected for identity verification purposes. If your account involves membership assets and interests in mobile phone number, we will also record you
+The account binding mobile number and member asset transfer record.
+(2) When you use Invite friends to be gifted (invite friends to join Tencent Video VIP), Intimate payment (help relatives and friends to open VIP), Gift friends VIP, Gift super movies and TV
+When sharing VIP and friends, we will collect your WeChat or QQ account, WeChat or QQ friend relationship list WeChat or QQ account, WeChat or QQ friend relationship list, WeChat or QQ avatar and nickname WeChat or QQ avatar and nickname.
+(3) When you use digital RMB to make payments, we will use your mobile phone number to match your digital RMB account to make payments.
+(4) To facilitate your viewing of history, we will collect your relevant records when you use the following functions:
+Functional function collection information collection information
+Welfare Center (Welfare Refund
+Exchange) Gold Coin Record Gold Coin Record, Cash Withdrawal Record Cash Withdrawal Record, and Prize Record Prize Record.
+Novel channel consumption records, book coupon details, purchased books, my bookshelf (collected
+Books) and reading records (including chapter progress only)
+Chicken leg quantity information and usage records (use record (feeding record feeding record, collection record, redeem, redeem
+Change record) Change record)
+Points charity donations for public welfare projects, donations for points, raising donations and details records
+(5) In addition, in order to facilitate you to check the delivery and delivery status of the goods, we will also collect letters related to the delivery progress of your goods from the logistics-related service entities.
+interest.
+1.7 Information upload or publish, communication and interaction 1.7 Information upload or publish, communication and interaction
+When you upload videos or photos, use live broadcasts, posts, barrages, comments in the Circle Community and live broadcast pages, we will collect the pictures, texts, audio and videos you uploaded
+Content, your nickname, avatar, published information content, Tencent Video Account ID, Tencent Video Account ID, and your interactive information, including likes/share/comments/interaction records likes/share/comments/interaction records, collection records, collection records
+Record. When you use the aforementioned information publishing function, we may request you to authorize camera permissions, album permissions, and album permissions. When you actively copy text or expressions,
+We will call your clipboard function. When you use the voice to text function, we will ask you to authorize microphone permissions and collect your voice information. As you
+When publishing content, use the quick filling function of the place of publishing. We will ask you to authorize and display the IP territorial IP territorial (domestic IP address is displayed to provinces/autonomous regions/municipalities directly under the central government, overseas
+The IP address is displayed to the country/region, and the specific information is subject to the network operator data).
+According to relevant laws and regulations, in order to maintain network security and good networkContent ecosystem, we will be on your personal homepage
+Inside, under the content you posted, your IP address will be displayed (domestic IP address will be displayed to the province/autonomous region/municipality, and overseas IP address will be displayed to the country/region. The specific information will be provided by
+Network operator data shall prevail).
+1.8 Event Participation and Message Notification 1.8 Event Participation and Message Notification
+1.8.1 Activity Participation 1.8.1 Activity Participation
+When you participate in our activities, you may be required to actively submit your personal information. include:
+(1) When you participate in the lottery, we will collect your WeChat or QQ account, avatar, nickname, nickname, purchase record and purchase record; if the prize is distributed by mail,
+We will also collect your receipt information, including the delivery address, delivery address, contact name, contact name, contact phone, contact phone number.
+(2) When you log in to "Little Goose Money" and Maoyan Mini Program by clicking "Free VIP" and "My Movie Tickets" on the Tencent Video Interface, we will collect you
+WeChat or QQ avatar, nickname WeChat or QQ avatar, nickname.
+(3) When you participate in the event by scanning, we will apply for your camera permissions.
+(4) When you share the activity password and link, we will collect your avatar, nickname and nickname, and call your clipboard function to determine whether there is any relevant password code message
+interest. It should be noted that in order to determine whether there is any relevant password code information, we will call your clipboard function when you start Tencent Video and background cutting the front desk.
+Yes, if there is relevant password code information, we will collect the information and feedback to you after the server performs verification or bind relevant rights. We don't
+Additional information about your clipboard will be stored.
+(5) We may use your relevant information obtained through the activities to develop and improve products and services, comprehensive statistics, data analysis or processing, etc. and
+Other uses you agree to.
+(6) We may collect your personal information in a short period of time for some activities. Please pay attention to the activity rules and authorization documents of specific activities for the collection of personal information.
+Please wait for privacy statement documents.
+In addition, to determine whether you meet the participation qualifications (such as new users) for the event requirements, or to ensure the normal order of the event, prevent cheating and fraud and other illegal and irregularities.
+In this case, we may also need to collect and use your device information (for example: device model, device manufacturer, operating system and version information).
+1.8.2 Message Notification 1.8.2 Message Notification
+(1) Write and write device calendar permissions Device calendar permissions are used for the launch of the movie, airborne activities, learning reminders, game appointments and game event appointment reminders, and only apply when you make an appointment reminder.
+Get it. After you enable the relevant permissions, we will visit your calendar to help you make an appointment or adjust the time you have made an appointment to use the calendar function when you have made an appointment
+Remind you. If the time has not been determined when you make an appointment reminder, we will write the specific time through calendar permissions after the time is determined. Rejecting authorization will not be possible
+Service, but will not affect the normal use of other functions of Tencent Video.
+(2) If you use the reminder function of product listing and video listing, we will also collect your Tencent video account ID and appointment records; if you use the reminder function of game listing and video listing, we will also collect your Tencent video account ID and appointment records;
+, We will also collect your mobile phone number to send you text messages to remind you.
+(3) You acknowledge and agree that we may use one or more of your contact information provided by you during use.
+Send multiple notifications for user message notification, identity verification, security verification, user experience research and other purposes.
+(4) For specific device manufacturers, we will collect OAID (Android version only) for message push.
+1.9 Operation and product safety requirements 1.9 Operation and product safety requirements
+We are committed to providing you with safe and reliable products and usage environments, and providing high-quality and reliable services and information. In order to maintain the normal stability of our products and services
+To operate it regularly, we will protect the safety and legitimate interests of you or other users or the public, we will collect the following information:
+(1) To detect whether there are upgrades and updates in Tencent Video version, we will collect your device information (GUID).
+(2) To recommend the best video clarity to you based on your network status, we will collect your IP address.
+(3) In order to realize Tencent Video operation error report and analyze and solve the problems you encountered during the use of Tencent Video, we will collect yourEquipment Information
+(GUID), browsing and operation records browsing and operation records, and request your storage permissions.
+(4) In order to verify the validity of the application identifier itself and identify abnormal device environments to identify login risks, we will collect your IDFV (iOS only
+version).
+(5) Technical processing instructions: After adopting security technical measures such as secure encryption, de-identification, and anonymization, and if the personal identity cannot be re-identified, we
+The collected data may be subject to algorithmic optimization, statistical analysis or other necessary data analysis processing for research and development, provision, operation of various types of our or affiliated companies.
+Products and services, such as: business decision analysis, personalized services, risk identification, etc.
+1.10 Personalized content recommendation 1.10 Personalized content recommendation
+We will use the information we collect, including your device information (such as Android ID, GUID, device model, system version), log information (purchase record, purchase record, purchase record
+Record, follow, click and click, favorite, browse, download record download record, like/share/comments/interactive objects like/share/comments/interactive objects, search terms search terms), gender, age, sketchy position letter
+Information, analyze your preferences and habits through automated decision-making, so as to provide you with customized services that meet your interests, such as showing or pushing you
+Recommend videos, games, reading, live broadcasts, and service content in the Circle community with higher degree of relevance (rather than general push). Automated decision making refers to the use of computer programs
+Automatically analyze and evaluate individual behavioral habits, interests and hobbies, and conduct decision-making activities.
+It is also necessary to remind that while providing you with content you are interested in faster, personalized content recommendations may lead to increasingly homogeneous content you see. As you
+Do not want to receive personalized content recommended by us for you. You can use the relevant functions of our products and/or services to enable/off personalization at any time.
+recommend. The personalized recommended setting path of Tencent Video App is: "Personal Center-Settings-Privacy Management-Personal Content Management". If you choose to close, we will not base it. If you choose to close, we will not base it.
+When processing your personal information for the purpose of personalized content push, the content you see may be less relevant to your preferences. When processing your personal information for the purpose of personalized content push, the content you see may be less relevant to your preferences. When you update Tencent Video App version
+After that, we will not change the permission status you set before without your consent.
+1.11 Advertising (including personalized ads) 1.11 Advertising (including personalized ads)
+(1) We may use your device identifier (OAID, IDFV, IDFA), advertising data (exposure, click, conversion data), and device information (device type
+Number, system language, operator, screen height and width, screen direction), App application and usage data (application package name, operation log), IP address, membership identity,
+Selected interest tags and other information to provide you with advertisements that may be of interest to you, evaluate and improve our advertising delivery and other promotional activities, and business analysis.
+Effect. Please rest assured that the personalized advertising recommendation algorithm will not recognize your true identity, but will only provide advertising information that is more valuable to you based on speculative characteristics.
+Save your transaction costs.
+(2) When you use innovative advertising interaction functions (such as shaking, twisting, twisting equipment), we will call the device's gyroscope, acceleration, and gravity sensor to
+Identify and judge your device status.
+(3) When you actively copy links and other content on the ad landing page, we will write to the clipboard to facilitate the implementation of functions such as sharing links.
+(4) If you do not want to accept personalized advertising services, you can turn on/off personalized advertising on the relevant function settings page of our products and/or services. App
+The personalized advertising setting path is: "Personal Center-Settings-Privacy Management-Personalized Advertising Management". If you choose to close, the number of ads you see will not decrease. If you choose to close, the number of ads you see will not decrease.
+But App App will no longer show you personalized ads, and the ads you see may be less relevant to your preferences. You will no longer be shown personalized ads, and the ads you see may be less relevant to your preferences.
+(5) In order to obtain more valuable advertising information, we may infer based on your search records and behavioral data in Tencent VideoYour indirect portrait, for
+For you to receive advertising content that you may be more interested in on Tencent and other platforms such as third-party websites and applications. We will not associate with your true identity
+Information, your specific search content will not be used. If you do not want to accept cross-platform advertising services, you can turn on/off on the App Settings page: "Personal Center-Settings
+Privacy Settings Management - Cross-platform Advertising Recommendation Management.
+(6) For some advertisements displayed through third-party H5 pages, in order to provide geo-location-based services, we may apply for your location permissions and collect GPS GPS
+Information information, CellID, nearby WiFi (WLAN). Such permission calls and information collection are only passed when you access and use advertisements displayed through third-party H5 pages
+Tencent Video Apply to obtain.
+1.12 Customer service and other user response functions 1.12 Customer service and other user response functions
+When you contact our customer service, in order to ensure the security of your account and system, we will collect your WeChat account, QQ number and account information, and your previous personal information
+Match to verify your user identity. At the same time, in order to investigate facts and help you solve your problem, we may also need to collect your personal information as follows: Contact
+(the mobile phone number, WeChat number, QQ number or other contact information you use or actively provide us with), communication records between you and us.
+When you use the Help and Feedback function, in order to facilitate your feedback on the problems encountered in using Tencent Video, we will collect your device information (GUID) and Tencent
+Video account ID, network situation, application version, access page, payment order number, payment order number, and apply for your storage permission. When you feedback the playback class and download class issues,
+Identify faults that may be related to geographic location. We will also collect your IP address and its corresponding rough geographical location (domestic IP address to municipal level, overseas IP location
+The address is to the country/region, and the specific information is subject to the network operator data). You can view feedback history on the Help & Feedback feature page.
+When you make an infringement complaint, in order to verify the identity and rights of the infringement complainant and deal with the infringement complaint in accordance with the law, you may need to provide your identity information and rights certificate
+Information related to Ming Materials, etc., but please note that the above information is collected and used by Tencent Wenxi·Infringement Complaint Platform (hereinafter referred to as "Tencent Wenxi"), which may include
+Including your sensitive personal information, Tencent Video will not collect this information. You must agree to Tencent Wenxi’s personal information protection rules before submitting the infringement complaint materials. Please
+You can read these rules carefully, and you can click to view the "Tencent Wenxi·Privacy Protection Guidelines for Infringement Complaint Platforms" for details. 》.
+When you request to download personal information, we will collect the email address you fill in to send the corresponding information generation files to the email address you specified.
+If you are a Tencent Video member, you can view the relevant records of member customer service in the "VIP Help Service Center".
+1.13 Live Service 1.13 Live Service
+In order to use the live interactive function, after you authorize and agree, we will access your microphone, camera, album (iOS version) or storage permissions (Android version).
+It provides you with functions such as video shooting, sound recording, video reading, and uploading live covers. When you use the live broadcast function, we only process your face on the device side
+The pixel information is used to provide beauty effects and will not be uploaded to our servers, nor will your facial pixel information be used for other purposes.
+1.14 Creation Number 1.14 Creation Number
+When you register a Tencent Video Creation Number (i.e., use the Tencent Video Creation Platform service as an individual creator), we will collect your nickname, avatar, and simplified information.
+Introduction, place of registration. In addition, in order to fulfill the requirements of national laws and regulations on the real-name system of the Internet (authentication of real-identity information of Internet user accounts), we will also collect
+Your name, ID number, ID number, mobile phone number, face comparison information; you can choose to fill in your gender and birthday.
+When you successfully register a Tencent Video Creation Number, we will configure and collect the anchor ID for you.
+When you use the following functions through Tencent Video Creation Number, we will collect the following personal information about you and apply for relevant permissions:
+(1) When certifying the live broadcast function, we will identify your current creative avatar and nickname to verify the opening function of the creative number.
+(2) Perform real-name authentication and use colorful light to make living bodiesWhen it is a real-person authentication method, we will call the device's light sensor.
+(3) When conducting official certification, in order to ensure that it is your own operation, we will collect your face comparison information based on the identity type you applied for certification, and collect face comparison information.
+The name, position, signature and validity period of occupational certification information to add the corresponding occupational certification.
+(4) When uploading videos and using content synchronization function, in order to fulfill national laws and regulations on the real-name system of the Internet (authentication of real-identity information of Internet user accounts)
+Please, we will collect your ID number and name based on the Tencent Weishi, Tencent Kandian and Tencent News accounts you choose to bind.
+(5) When using the third-party account binding function, to assist in proving that you are the original video creator and improve the accuracy of original judgment, we will choose to bind according to the
+Accounts of third-party platforms such as Bilibili, Douyin, Toutiao, Kuaishou, etc. collect your third-party account nickname, third-party account homepage link, and third-party account backend
+screenshot.
+(6) When using the withdrawal function, in order to bind your bank card, we will collect your cardholder’s name, bank card number, bank account opening bank, and region where the account opening bank is located.
+(7) We will collect your fan list (including your fan profile and nickname), but this fan list is only visible to you personally.
+(8) When using the "Wallet" function, we will collect your income to be withdrawn, cumulative income accumulated, income analysis/detailed income analysis/details, income capability and income capability (i.e., the creative ability and activated
+), withdrawal details, and credit points for creation numbers.
+(9) When using the "Revenue and Withdrawal" function, in order to facilitate you to manage and quickly understand the overall situation of the creation number, we will collect your withdrawal income and withdrawal income, today's receipt and today's receipt and today's receipt and today's receipt and today's receipt and today's receipt and today's receipt and today's receipt and today's receipt and today's receipt and today's receipt and today's receipt and today's receipt and today's receipt and today's receipt and today's receipt and today's receipt and today's receipt and today's receipt and today's receipt and today's receipt and today's receipt and today's receipt and today's receipt and today's receipt and today's receipt and today's receipt and today's receipt and today's receipt and today's receipt and today's receipt and today's receipt and today's receipt and today's receipt and today's receipt and today's receipt and today's receipt and today's receipt and now
+Yiyi, Monthly Income This Monthly Income, Share Ratio, Income Bills Income Bills, Cash Records, Cash Records, Gift Records and Gift Records.
+1.15 Game 1.15 Game
+1.15.1 Game Activities 1.15.1 Game Activities
+When you use "Ai Wan Game" to participate in Tencent Video's game activities, and the QQ number or WeChat account of logging into Tencent Video is the same as the account that registers/logs into the game,
+To verify whether you meet the conditions for receiving rewards and/or participating in the event, Tencent Video needs to verify your information in third-party games, and the verification scope will be due to
+Different activities are not completely consistent, but will be limited to the game account information (game characters and their own game attributes provided by you confirm the authorization and third-party games.
+Sex, status, record, etc.) and game friend data Game friend data (relationships between game characters and relationship-based behaviors, such as game friend relationship chain Game friend relationship chain, friend interaction
+Within the scope of gifts, friends chatting, etc. The specific information will be subject to the authorization page. If you refuse authorization, you will not be able to participate in the relevant activities, but it will not affect Tencent Video's
+The use of its main functions; when you refuse authorization, re-enter the event or participate in other third-party game activities, we will apply to you separately for the use of relevant letters
+interest. Tencent Video will only verify the information involved in the event, obtain feedback on "Yes"/"No" (meeting the conditions), and will not verify other irrelevant information, nor will it obtain
+Your actual data in third-party games. For example: If you participate in the event where you can register and log in to a third-party game, you will get a gift package, and Tencent Video will be with the third-party game
+Verify whether you are registered and logged in to the game. When you receive the feedback "Yes", you can receive the gift package. You can play games in "Love Games-My-Settings"
+Information authorization management, cancel authorization, modify visible scope and authorization information types, or cancel authorization directly in related games.
+1.15.2 Cloud Game 1.15.2 Cloud Game
+When you use the cloud gaming function, Tencent Video PC will collect your account information to judge your login status; Tencent Video App will request you to authorize your microphone
+Permissions and device sensors are used to improve the cloud gaming experience. Special note: When you enter a specific game with the cloud gaming function, your personal information will be
+This specific game collects and uses it by itself, and Tencent Video will not collect, process and store your personal information in specific games of the cloud game function.
+1.15.3 Game Promotion 1.15.3 Game Promotion
+If you use an Android device, when you enter the specific game details page, in order to display the download status button copy, we will determine whether the game is installed locally in the device.
+Play application; when you enter the game channel,In order to better recommend relevant game content to you during e-sports channels, game centers and game activity pages, we will judge
+Whether the promoted game application is installed locally in the device.
+1.16 Other self-collecting information scenarios 1.16 Other self-collecting information scenarios
+1.16.1 Eye protection mode 1.16.1 Eye protection mode
+When you watch our videos, we provide you with eye protection mode (iOS users only) to help you protect your eyes. Eye protection mode requires requesting your camera
+Permissions. When you authorize eye protection mode, we use TrueDepth APIs to obtain distance information between your face and the device screen at a certain frequency. when
+When the distance between your face and the device screen is less than 40cm, the video playback will be automatically paused and masked, and text will appear to remind you to protect your eyes and help you maintain it.
+Become a good movie-watching habit.
+We use TrueDepth APIs to not collect your facial recognition features, nor do we collect cached to files or uploaded to the cloud to support judgments beyond distance.
+Any other information. We do not store or share this information about you with third parties.
+The eye protection laboratory function is turned off when you first download the product to start. You can actively authorize/cancel the authorization through the product function setting page.
+For: "Personal Center-Settings-Play Settings-Player Eye Protection Mode".
+1.16.2 Aurora Laboratory 1.16.2 Aurora Laboratory
+When you use our Aurora Laboratory functions, we will collect information on your device's capabilities to detect whether your device supports the special services provided by Tencent Video.
+(High efficiency video encoding, Dolby, etc.).
+1.16.3 Screen projection 1.16.3 Screen projection
+When you use the screen projection function, in order to achieve the interconnection of the devices, we need to conduct local network device detection, and we will collect your hardware type, model, and solid
+Part version, region and language settings, hardware system version number, IP address, terminal device type, software and hardware feature information, Internet service provider, network operation
+Business, device model, terminal manufacturer, terminal device operating system version, session start/stop time and network status (WiFi, etc.), hard disk, CPU and internal
+Save usage status.
+1.16.4 User Survey 1.16.4 User Survey
+We may conduct user surveys on our products and/or services from time to time (including but not limited to online questionnaires, etc.). Please check the relevant personal information for collection.
+Pay attention to the privacy statement documents for specific user surveys.
+1.16.5 Institutional Creator 1.16.5 Institutional Creator
+When you use the services of Tencent Video Creation Service Platform as a representative or contact of an institution creator, you may need to actively submit relevant personal information. Bag
+include:
+(1) When an institution creator applies for individual content authorization cooperation, we will collect your account name, account profile, and avatar information to clarify your partner's body
+We may collect the surname of the legal representative or account operator of the organization's creator
+Name, ID card information (ID card number, ID card photo, etc.) ID card information (ID card number, ID card photo, etc.), facial information (static or dynamic) facial information (static or dynamic), mobile phone number and other information are used for identity verification to ensure that
+The identity of the partner is authentic, ensuring the security of the transaction and the normal progress of cooperation. If you are the legal representative or account operator of the institution creator, or if you have an institution creation, you have an institution creation.
+Other circumstances in which the person provides us with your personal information based on his control over your personal information. In response to these circumstances, we have passed the "Tencent Video Creation Ping" Tencent Video Creation Ping
+Taiwan Service Agreement Taiwan Service Agreement and other means require institutional creators to ensure that they have the right to perform the above-mentioned behaviors. On this basis, we will collect your above-mentioned personal information. If you have
+For any questions or comments, it is recommended that you contact the creators of relevant institutions to deal with them first.
+(2) When an institution creator signs and performs project cooperation contracts, we will collect the contact name, contact mobile phone number, contact email, contact place and contact place of the institution creator.
+The address is used to send notices related to the contract, thereby ensuring the normal progress of cooperation and safeguarding contract rights and interests. If you are a contact person of an institution creator, or if you appear in an institution
+The creator provides us with your personal information based on his control over your personal information. In response to these circumstances, we have passed the "Tencent Video Creation" Tencent Video Creation.
+Make a platform service agreement and platform service agreement and other methodsInstitutional users are required to ensure that they have the right to perform the above-mentioned behaviors. On this basis, we will collect your above-mentioned personal information. As you are concerned
+If you have any questions or comments, it is recommended that you contact the creators of relevant institutions to deal with it first.
+(3) When an institution creator uses the supplier services of the creative service market, we will collect the name and ordering personnel provided by the institution creator's corresponding orders.
+Machine number, order information, order information (service name, service fee, service merchant) is used for customer service contact, and the subscriber's name and subscriber's mobile number are shared with suppliers
+Used for service communication. If you are the subscriber of an institutional creator, or if an institutional creator appears, you provide us with your personal information based on their control over your personal information
+In other situations of information, in response to these situations, we have required institutional users to ensure that they have the right to perform the aforementioned operations through the "Tencent Video Creation Platform Service Agreement Tencent Video Creation Platform Service Agreement" and other methods.
+For, on this basis, we will collect your above personal information. If you have any questions or comments about this, it is recommended that you contact the creators of relevant institutions to deal with it first.
+(4) Generally, you can browse the information you submit at any time, but for security and identity reasons, you may not be able to modify the initial provided at the time of registration.
+Information and other verification information.
+(5) In the process of real-name authentication, in order to achieve the purpose of identity authentication, our partners may need to use your identity authentication information (may include real-name authentication information (may include real-name authentication information)
+Name, ID card-related information, facial information (static or dynamic) name, ID card-related information, facial information (static or dynamic), mobile phone number). Among them, some of the information is personal sensitive information, and if you refuse, it will cause you to have no
+After completing the identity authentication, you will not be able to use this service, and you will not be able to easily authorize cooperation with us, but you may adopt other cooperation methods. These
+Information is for real-name authentication and purposes stipulated by laws and regulations only and will not be used for other purposes without your express authorization. If there are other shares or transfers to your individual
+When you need us to share or transfer your personal information to a third party, we will directly or confirm that the third party obtains your express statement about the above behavior.
+meaning. Without your consent, we will not disclose your personal information to any company, organization or individual other than Tencent, except as otherwise provided by laws and regulations.
+1.16.6 Widgets 1.16.6 Widgets
+If you use Tencent Video through widgets on some branded Android devices, in order to add, delete and update widgets, Tencent Video may exit if you exit
+After use, there is a short startup behavior in the background.
+1.16.7 1.16.7 Air gestures Air gestures
+Air gestures require requesting permissions to your camera. When you authorize the use of the air gesture function, we will collect and process you locally on your device during content playback.
+The camera captures the screen, enabling you to control content playback through gestures.
+1.17 Receive personal information from third parties
+1.17 Receive personal information from third parties
+We may receive your personal information from third parties (such as sharing, etc.), but this only happens when: We confirm that such third parties have already added the relevant personal information.
+Share with us to obtain your consent, or a third party is legally licensed or required to disclose your personal information to us.
+We will require third parties to make commitments to the legality and compliance of the source of personal information. If a third party violates the behavior, we will clearly require the other party to bear the corresponding responsibility.
+Legal liability.
+We will understand the scope of consent for the processing of personal information that third parties have obtained, including the purpose of use, whether the personal information subject agrees to transfer, sharing, and public disclosure,
+Delete content, etc.
+This personal information obtained from third parties will be used to provide you with services and to ensure the accuracy of your relevant records in our possession. If we're right
+The processing of personal information exceeds the scope of consent obtained by a third party. We will directly or
+Get your consent through third parties that provide the information.
+1.18 Cooperate with operators to free traffic function
+1.18 Cooperate with operators to free traffic function
+When you use the traffic-free function that Tencent Video cooperates with operators (such as the "Tencent Wang Card" service in the "Transfer-free video" module), it is necessary to accurately identify the traffic-free
+To better record the traffic user identity and better record the traffic consumed by targeted applications, we need to collect your mobile phone number, IP address, mobile phone model), and operator information.
+It should be noted that when you receive a traffic-free phone cardOr when you enable traffic-free services, you may need to perform real-name authentication and provide your name and ID number.
+ID number
+, Link
+Telephone, delivery address
+Shipping address
+, detailed address
+Detailed address
+(The actual operator page display shall prevail). At this time, Tencent Video will not collect this information from you. Tell you to know carefully
+At this time, Tencent Video will not collect this information from you. Tell you to know carefully
+Do not actually provide the services and carefully review the relevant privacy policies or personal information processing rules before using any third-party services.
+Do not actually provide the services and carefully review the relevant privacy policies or personal information processing rules before using any third-party services.
+1.19 Third-party call permissions
+Location permissions
+1.19 Third-party call permissions
+Location permissions
+, Bluetooth permissions may be used for some third-party applications (including H5 pages, mini programs, etc.) services, providing geographical location-based services or through Bluetooth
+High position accuracy, etc., these permissions are only obtained through Tencent Video application when you use a third-party application specific function. You authorize location permissions
+1.20 Sensor application scenario statement
+It is also possible to collect your SSID. See the Privacy Policy of Third-Party Applications for details.
+1.20 Sensor application scenario statement
+Functional section
+Sensor name
+Location permissions
+of
+A third party should
+Applicable scenarios
+1.2
+1.2 Account information maintenance
+Account information maintenance Acceleration sensor, gravity sensor, gyroscope sensor
+User personal center background image and "Achievement Medal"
+Chapter” function
+Purpose of use
+The device status is detected by sensors and is in power with gravity
+Background image and swaying of dynamic effects in the energy section
+Virtual image of the Medal of Achievement
+1.3
+1.3 Real-name authentication
+Real-name authentication
+Light sensor
+Users activate Tencent Video Creation Number (only used
+Colorful light living bodies are suitable as real person certification method
+use)
+1.5
+1.5 Content browsing/playing/
+Content browsing/playing/
+Download/Subscribe
+Guide users to perform colorful light activities in normal lighting environments
+Physical detection (i.e., real person authentication), in abnormal light conditions
+Prompt the user below
+Acceleration sensor, direction sensor, device motion data (iOS version only, used to collect gyroscope data)
+Download/Subscribe
+1.7
+1.7 Upload or send information
+Upload or send information
+Fabric, communication and interaction
+Fabric, communication and interaction
+1.9 Operation and product safety
+need
+1.9 Operation and product safety
+need
+1.11 Advertising (including personality
+1.11 Advertising (including personality
+Advertising)
+Advertising)
+1.13
+1.13 Live broadcast service
+Live broadcast service
+1.15
+1.15 Game
+game
+Other general functions
+Other general functions
+During video playback, the horizontal and vertical screen status of the device is switched through sensor information to detect the screen direction and perform video
+Play horizontal and vertical screen switching
+Rotating vector sensor
+Play VR video source
+Obtain sensor information and adjust the VR video screen angle accordingly
+Spend
+Gyroscope sensors, acceleration sensors Activities involved in content browsing of innovative interactive functions (such as shaking, twisting, twisting equipment)
+Call sensor recognition to determine the status of the user equipment to judge
+Disconnect whether the user participates in the event
+Gyroscope sensor
+Gyroscope sensor
+Light sensor
+Acceleration sensor
+Acceleration sensor, gravity sensor, gyro
+Instrument sensor, rotation vector sensor, light
+Sensors, linear accelerators, magnetic field sensing
+Device, pressure sensor, relative humidity sensor
+Ambient temperature sensor
+Gyroscope sensor, acceleration sensor, heavy
+Force sensor
+User drags and drops the playback progress bar and
+Pull-up bottom tip
+Channel page recommended content poster dynamic effects
+Detection direction and during AR video editing and production
+angle
+When the user operates, the device is shocked by calling the sensor.
+Move, prompt the user to operate immediately
+The user equipment status is detected through sensors and display the
+Recommended content poster for performance
+Detect light during video editing and production Detect light through sensors to adjust screen brightness
+The direction and angle information are obtained through the sensor,
+Adjust the angle of the AR material
+To provide safe and reliable products and usage rings
+Provide high-quality and reliable services and information,
+Detect whether there are relevant sensors
+Innovative advertising interaction functions (such as shaking, twisting,
+Torsional equipment)
+If you identify the device scene when establishing a push link, prevent
+Black industry and malicious external attacks.
+Call the device sensor to identify and judge the device status to judge
+Disconnect whether users participate in interactive advertising
+Direction sensor, acceleration sensorWhen the live broadcast starts, the device horizontal and vertical screen status is detected through sensors. If the device horizontal and vertical screen status is detected by horizontal sensors,
+The vertical screen status is inconsistent with the live broadcast method, prompting the user;
+Set the shooting of the beauty scene according to the horizontal and vertical screen status of the device
+Photo starting position
+Acceleration sensor, magnetic field sensor, gyroscope sensor, ambient temperature sensor, direction sensor
+Tencent Video Aiwan Games Mini Game Platform provides developers with sensor capabilities. These sensor information is only obtained through Tencent Video when users use specific functions of third-party games.
+Acceleration sensor, magnetic field sensor, direction sensor, pressure sensor, gravity sensor, rotation vector sensor
+In-app and mini program positioning services, indoor positioning
+Positioning services, indoor positioning
+These sensor information is only obtained through Tencent Video when users use specific functions of third-party games.
+After user authorization, assist in obtaining location information
+Location information
+Scene
+Scene
+.
+Light sensor
+1.21 Exceptions to obtain consent
+Scan the QR code function
+. one
+The sensor data of the individual device does not involve any personal location
+Information and cannot be combined with other information to identify a specific
+The identity of a natural person.
+Detect light through sensors to adjust screen brightness
+1.21 Exceptions to obtain consent
+In accordance with the provisions of laws and regulations, we do not need to obtain your consent if we collect and use your personal information in the following circumstances:
+(1) Human resources are required to enter into and perform your contract as a party, or to implement the labor rules and regulations formulated in accordance with the law and collective contract signed in accordance with the law
+Required for resource management;
+(2) It is necessary to perform statutory duties or legal obligations;
+(3) It is necessary to respond to public health emergencies or in emergencies to protect the life, health and property safety of natural persons;
+(4) Perform news reporting, public opinion supervision and other behaviors for the public interest, and process your personal information within a reasonable range;
+(5) Process your own disclosure or other legally disclosed personal information within a reasonable scope in accordance with the provisions of the Personal Information Protection Law;
+(6) Other circumstances stipulated by laws and administrative regulations.
+2. Use of similar technologies such as cookies
+2. Use of similar technologies such as cookies
+.
+Cookies and similar technologies are commonly used technologies on the Internet. When you use our products and/or services, we may use cookies and similar technologies to receive
+Gather your login information, device information, and personal Internet records
+Personal Internet records
+etc. Preference data are used to ensure the normal operation of our platform and simplify the steps you repeat (such as notes
+Book, login), facilitate your viewing of usage history (such as video viewing history), provide you with service content that is more in line with your personal needs or more interested in, and protect you
+information and account security, enhance our products and services, etc.
+We will not use cookies and similar technologies for any purpose other than those described in this Privacy Policy. If you refuse our use of cookies and similar technologies
+Collect and use your relevant information. You can manage and partially/all reject cookies through the settings of your browser under the premise that the browser has this function.
+and/or similar technologies; or delete cookies and/or similar technologies that have been stored in your computer, mobile device or other devices. If you need to know more about how
+To change your browser settings, please check the relevant settings page of the browser you are using. You understand and know that some of our products/services can only be used
+Cookies or similar technologies can only be implemented. If you refuse to use or delete them, you may not be able to use our related products and/or services normally or be unable to pass.
+Our products and/or services can achieve the best service experience, and may also have a certain impact on your information protection and account security.
+For more information about our use of cookies and similar technologies, please click to view the "Cookie Policy"
+Cookie Policy
+》.
+3. Storage of information
+3. Storage of information
+.
+3.1 Storage location
+3.1 Storage location
+The personal information we collect and generate during our operations within the People's Republic of China is stored in the People's Republic of China. We do not currently provide it to overseas
+Scenarios of your personal information.
+If we really need to provide personal information outside the People's Republic of China due to business needs, we should meet the conditions stipulated by law (through the National Internet Information Department Group).
+The security assessment may be carried out in accordance with the standards formulated by the national Internet Information DepartmentA quasi-contract signs a contract with an overseas recipient, which stipulates the rights and obligations of both parties, etc.), and will inform you of
+The name or name of the overseas recipient, contact information, purpose of processing, processing method, type of personal information and the subject of your personal information to the overseas recipient
+Obtain your separate consent for the methods and procedures of rights. We will take necessary measures to ensure that overseas recipients handle personal information in accordance with Chinese law
+The personal information protection standards stipulated in the law.
+3.2 Storage period 3.2 Storage period
+We will save your personal information within the shortest time necessary to achieve the purpose of processing your personal information, but you exercise your right to delete, cancel your account or other laws and regulations.
+Except where there are provisions (for example: the "E-Commerce Law" stipulates that the time for preservation of goods and service information and transaction information is no less than three years from the date of completion of the transaction). overtake
+After the above storage period is issued, we will delete or anonymize your personal information.
+When our products or services cease operation, we will notify you in the form of push notifications, announcements, etc., and delete your personal information or anonymize it within a reasonable period of time.
+Non-name treatment, unless otherwise provided by laws and regulations.
+4. Information Security 4. Information Security
+.
+4.1 Safety protection measures 4.1 Safety protection measures
+We strive to provide guarantees for the security of your personal information to prevent the leakage, tampering, loss, improper use, unauthorized access and disclosure of personal information.
+We adopt multi-faceted security protection measures, including technical protection measures, management system control, security system guarantee and other aspects to ensure the protection of your personal information
+At a reasonable level of safety.
+(1) Technical protection measures
+We use industry-leading technical protections to protect your personal information, including but not limited to firewalls, encryption (such as SSL), de-identification or anonymization locations
+management, access control measures, etc. In addition, we will continue to strengthen the security capabilities of the software installed on your device. For example, we will do it locally on your device
+Some information is encrypted to consolidate secure transmission; we will understand the application information installed on your device and the process information running to prevent malicious intentions such as viruses, Trojans, etc.
+program.
+(2) Management system and operating procedures
+We have established internal management systems and operating procedures to ensure the security of personal information. Implement classified management of personal information and reasonably determine the operational right of personal information processing
+and provide regular safety education and training for practitioners.
+(3) Security system guarantee
+We have built and improved a personal information security management system including security system certification and business security capability certification. At present, our important information system has been passed
+The assessment and filing of national cybersecurity level protection (level 3).
+4.2 Measures for handling security incidents 4.2 Measures for handling security incidents
+If personal information leakage, tampering, loss and other personal information security incidents occur or may occur, we will initiate emergency plans for personal information security incidents to prevent individuals.
+Information security incidents have expanded.
+After a personal information security incident occurs, unless we take measures to effectively avoid the harm caused by information leakage, tampering, or loss, we will promptly push it.
+Inform you of the basic situation of personal information security incidents, the disposal measures and remedial measures we will or have taken, and our response to you
+For suggestions. If it is difficult to inform one by one, we will issue warnings through announcements and other means.
+5. Information Sharing 5. Information Sharing
+.
+5.1 Personal information entrustment processing 5.1 Personal information entrustment processing
+Some of the functions of the platform may be provided by external service providers. For example, we may hire professional data processing services to provide data analytics for our platform.
+Technical support for the face.
+For companies, organizations and individuals that we entrust to process personal information, we will sign an agreement with them, stipulating the purpose, duration, processing method and personal letter of the entrust to process.
+The types of information, protection measures, rights and obligations of both parties, and supervise the trustee's personal information processing activities.
+5.2 Share with third parties outside the group 5.2 Share with third parties outside the group
+To provide you with complete products and services, in some cases, we need to share your personal information with third-party companies, organizations or individuals outside our group.
+We will share your personal information with third parties only for the purposes specified in these guidelines and will only share necessary personal letters
+interest. If a third party changes or processes your personal information beyond your original consent, we will ask the third party to obtain your consent again.
+Share with usCompanies, organizations and individuals of personal information, we will require them to strictly abide by our measures and requirements regarding data privacy protection, including but not
+It is limited to processing personal information in accordance with data protection agreements, commitment letters and related data processing policies, avoid identifying personal identities and ensuring privacy and security.
+You can click to view the "List of Shared Personal Information with Third Party Tencent Video and Third Party Shared Personal Information List" to learn more about sharing your personal information with third parties; in addition, you can directly
+Click to view the "Tencent Video Access Third-Party SDK Directory Tencent Video Access Third-Party SDK Directory" to learn about the specific information of the accessed third-party software tool development kit (SDK).
+The main situations of sharing with third parties are as follows:
+5.2.1 Sharing required to implement our functions/services 5.2.1 Sharing required to implement our functions/services
+In some cases, we must share your personal information in order to fulfill our obligations as a party to enter into relevant contracts with you or provide what you need
+For services, please click to view the "List of Shared Personal Information with Third Party Tencent Video and Third Party" for specific third-party information, which mainly includes the following situations:
+(1) Payment service: To help you complete payment, we will share your user identification information, user identification information, network IP address, network IP address, order transaction information, order transaction information, and other information (in actual sharing
+(the information provided by the partners that provide payment services shall prevail).
+(2) Order and delivery: In order to realize the need to purchase goods/services (including goods delivery and delivery, etc.), we will provide your order-related information, order-related information, goods/service letters, goods/service letters, goods/service letters, etc.
+Information such as the name of the consignee, the name of the consignee, the delivery address, and the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number of the contact number
+(such as: suppliers and other service providers).
+(3) Digital Collection Service: In order to realize your use of digital collection services, we will include your name, ID number, ID number, mobile phone number, number of collections owned by individuals and collections.
+The product list is provided to the provider of blockchain technology services.
+(4) Cooperative Members: When you purchase membership rights of third-party products/services in Tencent Video, in order to realize your membership rights, we may place your subscription.
+Single consumption information Single consumption information (including consumption details, consumption time, consumption amount, payment method, number of membership days), account information, and IP address are provided to third-party products/services
+Provider of services.
+(5) Institutional creator supplier services: When institutional creators use supplier services in the creative service market, we will provide institutional creators in the corresponding orders.
+The name of the orderer and the mobile number of the orderer are provided to the supplier for service communication.
+(6) Other sharing that is necessary to implement our functions/services.
+5.2.2 Advertising Cooperation 5.2.2 Advertising Cooperation
+In order to serve advertisements, evaluate and optimize advertisement delivery performance, we need to share some of your data with advertisers and their agents and other third-party partners.
+It is required to strictly abide by our measures and requirements for data privacy protection, including but not limited to the data protection agreement, commitment letter and related data processing policies.
+To avoid identifying personal identities and protecting privacy and security.
+5.2.3 Third-party SDK partner 5.2.3 Third-party SDK partner
+We may share your personal information with third-party software tool development kits (SDKs) or other similar application service providers to ensure the stable operation of the platform
+The specific access information can be viewed by clicking on "Tencent Video Access Third-Party SDK Directory Tencent Video Access Third-Party SDK Directory". We will use third-party software for obtaining personal information
+SDK and Application Programming Interface (API) are strictly monitored in accordance with these guidelines and any other relevant confidentiality and security measures
+to process personal information to protect data security.
+5.3 Transfer of personal information 5.3 Transfer of personal information
+We will not transfer your personal information to any company, organization or individual, except for the following:
+(1) After obtaining your express consent, we will transfer your personal information to other parties;
+(2) If you need to transfer your personal information due to merger, division, dissolution, or bankruptcy, we will inform you of the recipient's name or surnameName and contact
+Methods and will require new companies and organizations that hold your personal information to continue to be subject to this policy, otherwise we will ask the company and organization to re-sourcing the same with you
+meaning.
+5.4 Public Disclosure 5.4 Public Disclosure
+We will not disclose the personal information collected publicly. If it is necessary to disclose it publicly, we will inform you of the purpose of this public disclosure and the type of information disclosed.
+and sensitive information that may be involved and obtain your separate consent.
+5.5 Exceptions to consent 5.5 Exceptions to consent
+According to the provisions of the Personal Information Protection Law, we share, transfer and publicly disclose your personal information without obtaining your consent in the following circumstances:
+(1) Human resources are required to enter into and perform your contract as a party, or to implement the labor rules and regulations formulated in accordance with the law and collective contract signed in accordance with the law
+Required for resource management;
+(2) It is necessary to perform statutory duties or legal obligations;
+(3) It is necessary to respond to public health emergencies or in emergencies to protect the life, health and property safety of natural persons;
+(4) Perform news reporting, public opinion supervision and other behaviors for the public interest, and process personal information within a reasonable range;
+(5) Process personal information that has been disclosed by individuals or other legally disclosed within a reasonable scope in accordance with the provisions of the "Personal Information Protection Law";
+(6) Other circumstances stipulated by laws and administrative regulations.
+ 
+6. Your Rights 6. Your Rights
+.
+During your use of Tencent Video, in order to make it easier for you to query, copy, correct and delete your personal information, and at the same time, you can guarantee that you will withdraw your personal information and process it.
+We provide you with the right to cancel your account in product design. You can refer to the following guidelines to operate. In addition, we also set up
+Once the complaint and reporting channels are set up, your opinions will be handled in a timely manner. If you are unable to exercise your personal information subject's rights through the above channels and methods, you may
+Make your request through the contact information provided in this Privacy Protection Guidelines and we will provide feedback in accordance with the provisions of laws and regulations.
+6.1 Query personal information 6.1 Query personal information
+(1) You can query your WeChat or QQ avatar, nickname, and mobile phone number through the path: "Personal Center-Settings-Account Information Management";
+(2) You can query your video playback history, novel and comic viewing record, video playback record, and novel and comic viewing record through the path: "Personal Center-Viewing History";
+(3) You can check your series and personal album follow-up records, appointment records, appointment records, appointment records, appointment records through the path: "Personal Center-Appointment/Add-Appointment";
+(4) You can query your video, novel, and application download records through the path: "Personal Center-My Downloads";
+(5) You can query your list creation and collection record creation and collection record through the path: "Personal Center-My List";
+(6) You can check your series, film list, personal album and short video collection records through the path: "Personal Center-My Collection";
+(7) You can check your birthday, mobile phone number, email address, delivery address, associated account number through the path: "Personal Center-Settings-Privacy Management-Personal Information Overview".
+Shared equipment;
+(8) You can check your nickname, gender, birthday sign, and location through the path: "Personal Center-Avatar-Modify Information";
+(9) You can check your order information and the name, address and phone number of the consignee through the path: "Personal Center-Caochangdi Mall-My";
+(10) You can check your download application records, game information authorization status, gift package welfare records, and appointment game records through the path: "Personal Center-Love Games-My";
+(11) You can check your points details and points orders through the path: "Personal Center-My Points"; "Personal Center-My Points-Points Donation" to check your charity projects,
+Donate points, raise donations and details records
+(12) You can check your My Bookshelf (collection books) and reading records My Bookshelf (collection books) and reading records through the path: "Personal Center-My Bookshelf"; check "Personal Center-Novel Channel-Account/Bookshelf"; check "Personal Center-Signature Channel-Account/Bookshelf";
+Inquiry on your consumption records, consumption records, book coupon details, purchased books, my bookshelf (collection books) and reading records. Purchased books, my bookshelf (collection books) and reading records;
+(13) You can query through the path: "Personal Center-My Chicken Legs"Your chicken legs quantity information and usage records (feeding record, collection record, redemption record) usage records (feeding record, collection record, redemption record).
+6.2 Obtaining copy of personal information 6.2 Obtaining copy of personal information
+If you need a copy of your personal information, you can apply through the path: "Personal Center-Settings-Privacy Management-Personal Information Download"; you can also use this Privacy Insurance
+Contact us at the end of the protection guide. After verifying your identity, we will provide you with a copy of your personal information (including basic information and identity letters) in our services.
+(Interest), except as otherwise provided by laws and regulations or otherwise agreed in these privacy protection guidelines.
+On the premise that technology is feasible and meets the conditions stipulated by the national Internet Information Department, we may also transmit a copy of your personal information to the third party designated by you as required.
+6.3 Correct and supplement personal information 6.3 Correct and supplement personal information
+6.3.1 When you find that your personal information processed by us is inaccurate or incomplete, you have the right to request us to make corrections or supplements. You can use the following path to your own
+Correct and supplement human information:
+(1) You can correct and supplement your nickname, gender, birthday sign, and location through the path: "Personal Center-Avatar-Modify Information";
+(2) You can correct and supplement your birthday, mobile phone number, email address, delivery address, and main settings through the path: "Personal Center-Settings-Privacy Management-Personal Information Overview".
+Prepare;
+(3) You can change the mobile phone number of your Tencent Video account by using the path: "Personal Center-Video VIP-Member Help Center-More-Binding Mobile Phone-Binding Mobile Phone";
+(4) You can correct and supplement your consignee's name, address and phone number through the path: "Personal Center-Caochangdi Mall-My-Term Delivery Address".
+6.3.2 You can also contact us through the methods provided in Section 10 of this Privacy Protection Guidelines. After we verify your personal information, we will promptly correct and supplement your personal information.
+6.4 Delete personal information 6.4 Delete personal information
+6.4.1 You can delete your personal information by yourself through the following paths:
+(1) You can delete your video, novel and comic viewing record through the path: "Personal Center-Viewing History-Edit";
+(2) You can delete your series and personal album add-on records and follow-on records and appointment records through the path: "Personal Center-Appointment/Appointment-Editor";
+(3) You can delete your video, novel, and application download records through the path: "Personal Center-My Download-Edit";
+(4) You can delete your list creation and favorite record creation and favorite record through the path: "Personal Center-My List-Edit";
+(5) You can delete your series, film list, personal album and short video collection records through the path: "Personal Center-My Collection-Edit";
+(6) You can delete your collected books, reading records and reading records through the path: "Personal Center-Novel Channel-Account/Bookshelf" or "Personal Center-My Bookshelf-Editor";
+(7) You can delete your consignee's name, address and phone number through the path: "Personal Center-Caochang-My-Address Management";
+(8) After you enter Tencent Video, you can delete the posts, comments, and videos you posted by visiting the posts, comments, and videos you posted.
+6.4.2 In the following circumstances, you can contact us through the method provided at the end of this Privacy Protection Guidelines and request that we delete your personal information:
+(1) If our behavior of processing personal information violates laws and regulations;
+(2) If we collect or use your personal information without your consent;
+(3) If you agree to our collection or use of your personal information and then withdraw your consent;
+(4) If our behavior of processing personal information violates the agreement with you;
+(5) If you no longer use our products or services, or you have cancelled your account;
+(6) If we no longer provide you with products or services;
+(7) If the purpose of processing your personal information has been achieved, cannot be achieved, or is no longer necessary to achieve the purpose of processing;
+(8) If the retention period of your personal information has expired.
+6.5 Withdraw consent 6.5 Withdraw consent
+(1) You can revoke the location, camera, and album by modifying your hardware device or through the following path: "Personal Center-Settings-Privacy Management-System Permission Settings" (Figure
+Film, photos, videos, audio files), calendar and microphone permissionsauthorization;
+(2) You can withdraw your personalized content recommendation authorization through the following path: "Personal Center-Settings-Privacy Management-Personalized Content Management";
+(3) You can withdraw your personalized ad push authorization through the following path: "Personal Center-Settings-Privacy Management-Personal Advertising Management".
+Please understand that each business function requires some necessary information to be completed. After you withdraw your consent or authorization, we will not be able to continue to provide you with withdrawal of the consent and authorization.
+If you wish or authorize the corresponding services, you will no longer process your corresponding personal information. However, your decision to withdraw your consent or authorization will not affect your previous decision based on your authorization
+information processing.
+6.6 Cancel Account 6.6 Cancel Account
+You can cancel your Tencent Video account through the path: "Personal Center-Settings-Privacy Management-Login Account".
+After you cancel your Tencent Video account, we will stop providing you with all Tencent Video products and/or services, and will pass anonymization in accordance with relevant laws and regulations.
+If the user information is processed, or delete personal information related to your account, unless otherwise specified by laws, regulations or regulatory agencies on the storage time of user information
+outside. If you have relevant rules and procedures for account cancellation, please refer to the "Tencent Video Account Registration Agreement Tencent Video Account Registration Agreement".
+6.7 Explanation of obtaining this Privacy Protection Guidelines 6.7 Explanation of obtaining this Privacy Protection Guidelines
+You can contact us through the methods provided in Section 10 of this Privacy Protection Guidelines and ask us to explain this Privacy Protection Guidelines.
+6.8 Automatic decision-making of constraining information systems 6.8 Automatic decision-making of constraining information systems
+In some business functions, we may make decisions based solely on non-human automatic decision-making mechanisms including information systems, algorithms, etc. If these decisions affect you significantly
+You can contact us through the methods provided in Section 10 of this Privacy Protection Guidelines, request us to explain, and refuse us to resolve the issue only through automation
+Make decisions in a way that is planned.
+6.9 Protection of personal information of deceased users 6.9 Protection of personal information of deceased users
+If a user unfortunately dies, his close relatives may exercise the investigation of the relevant personal information of the deceased user for their legal and legitimate interests.
+The rights to read, copy, correct, delete, etc.; unless otherwise made by the deceased user during his lifetime.
+6.10 Respond to your above request 6.10 Respond to your above request
+We will review the issues involved as soon as possible and provide feedback within the 15th day or within the time limit stipulated by laws and regulations. If you are not satisfied or have any questions, you can use this privacy policy
+Contact us in the ways provided by Section 10 of the Protection Guidelines.
+To ensure security, if you make a request to us in accordance with Section 6 of this Privacy Protection Guidelines, we will verify the identity of your personal information subject and process your request.
+In principle, we do not charge any fees for your reasonable request, but we will charge a certain fee for requests that are repeated repeatedly and exceed the reasonable limits.
+For those requests that are technically difficult to achieve and do not need to respond to according to the provisions of laws and administrative regulations or responding to your request will violate the laws and administrative regulations,
+It may refuse and explain the reasons to you.
+ 
+7. Change 7. Change
+.
+We may revise this privacy guidelines in due course. When the terms of this Privacy Protection Guidelines change, we will prompt you for changes when the version is updated.
+Privacy protection guidelines and explain the effective date to you. When there are major changes in this Privacy Protection Guidelines, we will also provide more significant notifications to change
+Let you know in part.
+The above "major changes" include:
+(1) The name or name and contact information of the personal information processor;
+(2) The purpose and method of processing personal information, the type and retention period of personal information processed;
+(3) The methods and procedures for individuals to exercise their rights prescribed by this Law;
+(4) Other matters that should be informed as stipulated by laws and administrative regulations.
+Please read the changed privacy protection guidelines carefully. If you continue to use Tencent Video, you agree that we will handle your personal information in accordance with the updated privacy protection guidelines.
+Personal information. If the purpose, method of processing and type of personal information are changed, we will obtain your consent again.
+8. Protection of minors
+8. Protection of minors
+.
+We attach great importance to the protection of personal information of minors. If you are a minor under the age of 18, we will not
+Process your personal information. If you are the guardian of a minor, when youIf you have any questions about the personal information of the minor you are custody, please go to "10.
+Contact us in Contact us.
+In particular, if you are a child under the age of 14, we have specially formulated a "Children's Privacy Protection Statement" for you.
+Children's Privacy Protection Statement
+》, children and their guardians are under the age of 14
+Children should also carefully read the "Children's Privacy Protection Statement before using Tencent Video Services
+Children's Privacy Protection Statement
+》. Only when the guardian obtains the "Child Privacy Protection Statement"
+Only then will we process personal information of children under the age of 14
+Children's personal information
+.
+9. Others
+9. Others
+.
+9.1 "Tencent Privacy Policy"
+Tencent Privacy Policy
+Children's Privacy Protection Statement
+》Agree
+》 is a general privacy clause that we apply uniformly, and the user rights and information security measures stipulated are applicable to Tencent Video
+user. For example, "Tencent Privacy Policy"
+》If there are any inconsistencies or contradictions with this Privacy Protection Guidelines, please refer to this Privacy Protection Guidelines.
+9.2 "Children's Privacy Protection Statement
+Children's Privacy Protection Statement
+》 is an information protection rule applicable to children under the age of fourteen. Children's Privacy Protection Statement
+Children's Privacy Protection Statement
+》 Within the scope of application,
+For example, it is related to the "Tencent Privacy Policy"
+Tencent Privacy Policy
+》, there are inconsistencies or contradictions in these guidelines. Please refer to the "Children's Privacy Protection Statement
+10. Contact Us
+10. Contact Us
+.
+Children's Privacy Protection Statement
+》 shall prevail.
+We have set up a dedicated personal information protection team and personal information protection person. If you have any matters related to this privacy protection guide or personal information protection, you have any questions related to this privacy protection guide or personal information protection.
+When you have questions or complaints or suggestions, you can contact us through the following methods:
+(1) You can fill out the feedback questionnaire for personal information protection and privacy issues
+Feedback Questionnaire for Personal Information Protection and Privacy Issues
+Contact us;
+(2) Send the question to Dataprivacy@tencent.com;
+(3) Contact us at https://kf.qq.com/;
+(4) Mail your question to the following address:
+Ministry of Data Compliance and Privacy Protection, Department of Data Compliance and Privacy Protection, No. 33, Haitian 2nd Road, Nanshan District, Shenzhen, Guangdong Province, China
+Zip Code: 518054
+We will review the issues involved as soon as possible and provide feedback within the 15th day or within the time limit stipulated by laws and regulations.
+Appendix: Definition
+Appendix: Definition
+.
+personal information
+Shenzhen Tencent Computer Systems Co., Ltd.
+Personal information: refers to various information related to identified or identifiable natural persons recorded electronically or otherwise, and does not include anonymous information
+(From Article 4 of the "Personal Information Protection Law of the People's Republic of China").
+Sensitive personal information
+Sensitive personal information: Personal information that may easily lead to the personal dignity of a natural person or the personal or property safety of his/her personal information once it is leaked or used illegally.
+Information, including biometrics, religious beliefs, specific identities, medical and health, financial accounts, whereabouts, etc., as well as individuals under the age of fourteen
+Information (from Article 28 of the "Personal Information Protection Law of the People's Republic of China".
+Anonymization
+Anonymization: refers to the process in which personal information cannot be identified and cannot be restored after processing (from the Seventh "Personal Information Protection Law of the People's Republic of China"
+Article 13).
+De-identification
+Deidentification: refers to the process in which personal information is processed so that it cannot identify a specific natural person without the help of additional information (from the People's Republic of China
+Article 73 of the National Personal Information Protection Law).
+Affiliated companies
+Affiliated companies: refers to companies that have direct or indirect control or materially influencing relationships with us.
+child
+Children: refers to minors under the age of fourteen.
+Process personal information
+Processing personal information: refers to the collection, storage, use, processing, transmission, provision, disclosure, deletion, etc. of personal information.
+Automated decision making:
+Automatic decision-making: refers to automatically analyzing and evaluating individual behavioral habits, interests, or economic, health, credit status, etc. through computer programs, and making decisions
+activities (from Article 73 of the "Personal Information Protection Law of the People's Republic of China".
+ Cookies:
+Cookies: A cookie is a small file containing a string that is sent, stored on your computer, mobile device or when you log in and use a website or other web content.
+In other devices (usually encrypted). Cookie similar technologies are other technologies that can be used for similar uses as cookies, such as: WebBeacon, Proxy, embedded
+In-line scripts, pixel tags, etc.
+SSL
+ SSL: SSL (Secure Socket Layer), also known as the Secure Socket Layer, is a security protocol implemented on the Transmission Communication Protocol (TCP/IP). SSL support
+Various types of networks, which provide three basic security services at the same time, all achieve the effect of confidentiality of information by using public keys and symmetric key technologies.

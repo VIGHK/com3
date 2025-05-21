@@ -1,0 +1,35 @@
+Jd use invoice header, taxpayer identification number, email address with third party that provides you with the above services.
+Jd collect location information.
+Jd share jd order number, transaction amount information with jd payment, wechat pay, unionpay, network connect.
+Payment institutions collect bank card, savings cards, credit cards, necessary payment information.
+Jd collect payment time, payment method, payment amount with payment institution you choose.
+Jd.com, jd.com's affiliates, suppliers, merchants, delivery companies use order information.
+Jd use account information, order information.
+Jd collect contact person, contact information, return address.
+Jd collect warranty start and end period, express delivery company, express order number, return address, delivery time information with freight insurance service provider.
+Jd collect device information, device model, oaididfa, android idopenudid, harmonyos oald, idfv, operating system and software version, device status, network status, processes in operation of this app, bluetooth mac address, log information, ip address, browsing information, order information, sim card information, battery usage.
+Jd collect location information, ssid, wifi name, common software list information.
+Jd collect device information.
+Jd.com disclose personal information.
+Jd.com protect personal information.
+Jd.com use transmission layer security protocol encryption technology.
+Jd.com use data desensitization technologies.
+Jd.com manage personal information.
+Jd.com store personal information with trustful cloud.
+Jd.com certify personal information with data center alliance.
+Jd.com certify personal information with ministry of public security.
+Jd.com certify personal information with iso27000.
+Jd.com train employees.
+Jd.com handle security incidents.
+Jd.com inform security incidents.
+Jd.com store personal information.
+Jd.com transmit personal information.
+Jd.com delete personal information.
+Jd.com anonymize personal information.
+Jingong share personal information.
+Jingong transfer personal information.
+Jingong public disclosure personal information.
+Jingong contact personal information.
+Jingong archive privacy policy.
+Jingong reply personal information.
+Jingong complain personal information with internet information, telecommunications, public security and industrial and commercial regulatory departments.

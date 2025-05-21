@@ -1,0 +1,50 @@
+Historical version
+"Baidu" mobile application privacy policy
+Welcome to use the services provided by the "Baidu" mobile application! Baidu Company (the Chinese Privacy Policy refers to Beijing Baidu Netxun Technology Co., Ltd., also known as "we") attaches great importance to your privacy protection and personal information protection. This Privacy Policy applies to your access and use of the services provided by the "Baidu" mobile application in any way.
+
+"Baidu" mobile application (also known as "Baidu App" or "This Software" in certain functional scenarios of this "Baidu" mobile application), refers to a mobile application product named "Baidu". You can search for information, browse information, watch videos or live broadcasts, publish and interact, shopping/payment, read novels and animations, social and follow, instant messaging, check weather, mini games, download files, register/login to Baidu account, shopping payment, etc. through the "Baidu" mobile application (hereinafter collectively referred to as "'Baidu' mobile application products or services").
+
+The "Baidu" mobile application includes but is not limited to multiple application versions such as iOS, Android, Harmony OS, etc. Please select the version that matches the installed terminal device when using the "Baidu" mobile application. The personal information that the "Baidu" mobile application may obtain depends on the version of the "Baidu" mobile application you are using, the specific type/version of the terminal device you are using, and the functions you are using. The internal components of the "Baidu" mobile application include Baidu Map, Baidu Advertising, Baidu Huitui, Baidu Push, Baidu Login, Baidu Message, Baidu Statistics and other self-developed SDKs. They are an integral part of mobile application technology services. The acquisition of personal information is explained in this privacy policy in conjunction with business functions.
+
+In the "Baidu" mobile application and related versions (including Baidu Speed ​​Edition, Baidu Changting Edition, Baidu Care Edition, Baidu Browser, hao123APP), we use relevant technologies to synchronize and unify accounts and usage records to provide you with consistent services and user experience under the same functions of each related version. The actual functions of the associated version may differ slightly. If the associated version has an independent privacy policy, the privacy policy of the associated version shall apply at the same time; if the two are inconsistent, the privacy policy of the associated version shall prevail.
+
+This privacy policy is intended to help you understand what personal information we collect, why we collect it, what it does with it and how to protect it. You agree to this Privacy Policy that you have understood and agreed that in order to realize the service, we will process your personal information in relevant functional scenarios, but we will not collect all your personal information in a package just because you authorize and agree to this Privacy Policy. We will strictly follow the requirements of laws and regulations and seek your separate consent under certain circumstances. In addition to this privacy policy, we may also explain to you the rules for processing your personal information through product page notifications, pop-up prompts, information push, etc. The personal information processing situation corresponding to specific business functions will be subject to the specific rules, and the specific rules have the same effect as this privacy policy.
+
+Unless otherwise provided by laws and administrative regulations, you have the right to know and decide on how we process your personal information, and have the right to restrict or deny us or other parties' processing of your personal information; at the same time, you have the right to ask us to explain the personal information processing rules we provide to you. Please read and understand this privacy policy carefully before using the "Baidu" mobile application and related products and services in order to make appropriate choices.
+
+This Privacy Policy will help you understand the following:
+1. The information we collect and the corresponding purpose of use
+
+2. How we use cookies and similar technologies
+
+3. How we share, transfer and publicly disclose your personal information
+
+4. How we store and protect your personal information
+
+5. Your rights
+
+6. How we process personal information of minors
+
+7. How to update this policy
+
+8. How to contact us
+
+We are well aware of the importance of personal information to you, and we also well know that providing effective protection for your information is the cornerstone of the healthy and sustainable development of our business. Thank you for your use and trust in "Baidu"! We solemnly promise that we will take corresponding security protection measures to protect your personal information in accordance with the industry's mature security standards.
+
+1. The information we collect and the corresponding purpose of use
+We will collect and use your personal information in accordance with the principles of lawfulness, legitimateness and necessity. Specifically, we collect and process your personal information in order to provide you with corresponding business functions. In the corresponding function, if you provide other people's personal information, please make sure you have obtained it.With the authorization of relevant entities, we reserve the right to verify the legal sources of such personal information at any time.
+
+For your understanding, we will list the business functions, processing purposes and personal information we provide as follows:
+
+1.1. Search and browse
+You do not need to log in to your Baidu account to use the search and browse services of the "Baidu" mobile application to obtain various information including pictures, texts, videos, live broadcasts, novels, products, same city, local life services, etc. In order to fulfill the network security obligations stipulated by laws and regulations, the responsibility for Internet information content management, and the necessary requirements for providing services to you, our servers will automatically record your activity information in accordance with the law, including the following:
+
+Your search history includes search information (search terms, pictures, language information), click browsing history, search time, number of times and related operational behavior records
+Your browsing history, your clicks, reads, collections, posts, follow, comments, likes, share, forwards and other operational behavior records
+Your live broadcast/information stream/video playback information and operation behavior records
+Your device information, including hardware model, operating system version and system situation, device configuration, advertising identifier IDFA, supplier identifier IDFV, anonymous device identifier OAID, Android ID, UAID, browser type, telecom operator, language used, WIFI information (SSID, BSSID), sensor information, screen resolution, device version, etc.
+Your other log information
+We may also use the aforementioned information to bring you more convenient search and information flow services and continuously improve "Baidu" mobile application products and services. For this purpose, we may also use mechanisms such as browser network storage (including HTML5) and application data cache to collect information on your device and store it locally, and show you search history. If you are not logged in to your account, we will record your activity information through the corresponding identifier information of the device.
+
+We also provide you with a traceless browsing mode. When you choose to enable traceless browsing, your search history and browsing history will not be recorded and displayed locally.
+

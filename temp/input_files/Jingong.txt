@@ -1,0 +1,403 @@
+"JD Basic Function Privacy Policy"
+Click here to switch to the English version of "JD Basic Function Privacy Policy".
+
+Click here to switch to the English version of JD Basic Function Privacy Policy.
+
+
+
+Dear JD users: We have updated the "JD Basic Function Privacy Policy", which mainly supplements the detailed fields of JD APP collecting location information in product/service information display scenarios.
+
+【Special Tips】
+
+This policy only applies to the products and services provided by Beijing JD Sanbailushidu E-Commerce Co., Ltd. and its affiliated companies (including but not limited to Beijing JD Century Trading Co., Ltd., hereinafter referred to as "we" or "JD"), and its extended functions (hereinafter referred to as "JD Service"), including JD APPs, websites, clients, mini programs, and various products and services provided to you by new forms emerging with the development of technology. If a product we provide has a separate privacy policy or a special agreement in the corresponding user service agreement, the privacy policy of the product will be applied first. Content not covered by the privacy policy and user service agreement of this product shall prevail. If the products or services provided by JD.com are used in the products or services of our affiliated companies but do not set up an independent privacy policy, this privacy policy also applies to such products or services.
+
+Please read the "JD Basic Function Privacy Policy" (especially bold content) carefully and determine our rules for processing your personal information. During the reading process, if you have any questions, you can consult us through the contact information in the "JD Basic Functions Privacy Policy".
+
+When you are located in the European Union, the European Economic Area, the United Kingdom and Switzerland, please read the "European Regional Policy" carefully before you "submit an order, add and modify the address".
+
+JD APP is an online shopping app. You agree that this privacy policy only means that you know and agree to the use of online shopping functions that we collect and process relevant necessary information, and does not mean that you agree to our collection and processing of non-essential personal information.
+
+Version update date: April 15, 2025
+
+Version effective date: April 22, 2025
+
+If you have any questions, comments or suggestions, you can contact us via the following contact information:
+
+Contact number: 950618
+
+Contact email: privacy@jd.com
+
+Registered address: Room 222, Building C, No. 18, Kechuang 11th Street, Beijing Economic and Technological Development Zone
+
+Common office address: No. 18, Science and Technology Innovation Street, Beijing Economic and Technological Development Zone
+
+
+
+introduction
+
+Welcome to JD.com! We attach great importance to the protection of users' privacy and personal information. We hope to explain to you through the JD Basic Functions Privacy Policy ("This Privacy Policy") how we collect, use, save, share and transfer this information when you use our products and/or services, and the ways we provide you with access, update, delete and protect this information.
+
+This Privacy Policy will help you understand the following:
+
+1. How we collect and use your personal information
+
+2. How we use cookies and similar technologies
+
+3. How we provide your personal information to the outside world
+
+4. How we protect and save your personal information
+
+5. How do you manage your personal information
+
+6. Protection of personal information of minors
+
+7. Notices and revisions
+
+8. How to contact us
+
+
+
+1. How we collect and use your personal information
+
+To provide you with online shopping services, our basic functions include account registration and login, product/service information display, order placing and order management, payment, product/service delivery, customer service and after-sales service, and transaction security guarantee. During your use of the above functions, we will collect and use necessary personal information related to you, including mobile phone number, consignee name, delivery address, contact number, payment time, payment amount, payment method, etc. For details, please refer to the personal information bolded in this Privacy Policy. If you do not provide the corresponding information, you will not be able to use our products and/or services normally.
+
+In addition to basic functions, we also provide you with some additional functions, including permission-based shopping experience providing services and information disclosure functions. You may choose to agree or disagree with the personal information we collect and use. If you refuse to provide it, you will not be able to use it normally.Turn off additional features, but will not affect your use of our basic features.
+
+Please understand that due to the different versions and scope of the product/service selected by different users, if the collection and use rules for displaying specific functions are different from this privacy policy, please refer to the specific content for display. The functional scenarios and personal information we provide you with are as follows:
+
+(I) Account registration and login
+
+When you register to use JD.com services, you need to provide us with your mobile phone number. We will send a SMS verification code to verify whether your identity is valid, identify and display the corresponding operator through SIM card information. Your account name is your default nickname. You can choose to modify and supplement your nickname, avatar, account name and your real-name authentication related information. These information belong to your "account information".
+
+After registration is completed, you can choose to use JD account information or authorize us to obtain your third-party account information to log in. If you do not provide such information, you will not be able to log in and use our products and/or services. At this time, you can use the browsing and search functions, and we will not collect your above personal information.
+
+
+
+(II) Product/service information display
+
+In order to show you products or services, we will collect your device information (including device model, OAID/IDFA, IDFV, operating system and application version, language settings, resolution), and browser type to sort the corresponding product or service content and adapt to your application version and device interface. After you have explicit authorization, when you browse products on the home page, instant delivery, and search page, we will collect your location-related information (GPS location information, WLAN access point, latitude and longitude, wifi list, base station information, wifimac).
+
+In order to provide you with search history, browsing history, favorite products or shops, shops you are following, shopping carts or order products or services display services, during the use, we will collect your browsing information, search history, favorites, followers, purchase additions, and order information. Among them, when providing you with a display search history service, the search record information is stored on your local device.
+
+We will conduct data analysis and predict your preferences based on your above information and your delivery address, and push products/services, commercial advertisements, commercial text messages and other marketing information that may be of interest to you. The personalized recommendation algorithm used is the registration number of Internet Information Computing No. 110115929236002230013. If you need to modify the order of products or services displayed to you, commercial advertisements and other content, you can do so in the following ways:
+
+(1) If you are not interested in the products or services displayed on the homepage "Recommended for You", you can select to reduce or block related products or services categories by long pressing the recommended product or service picture and selecting to reduce or block related products or service categories according to the prompt pop-up;
+
+(2) If you do not want to receive products or services recommended by the search page for you, you can choose to receive corresponding search results display based on the dimensions of sales, prices or other pages;
+
+(3) If you do not want to receive commercial text messages, you can cancel the mobile promotional text messages we send to you by prompting a reply to unsubscribe or other methods provided by the text message to cancel the mobile phone promotional text messages we send to you;
+
+(4) If you do not want to receive message notifications sent by the APP, you can set it through the mobile APP "Message Center-Message Settings";
+
+(5) If you want to manage the personalized advertisements we send to you, you can set them in "My-Account Settings-Privacy Settings-Advertising Management".
+
+(6) If you want to manage the personalized content we send you, you can set it in "My - Account Settings - Privacy Settings - Recommended Management".
+
+(7) Others: You can cancel the promotional information for email subscription in the email subscription menu of the PC account settings page.
+
+(8) If you believe that the content we provide to you affects your legitimate rights and interests, you can contact us through customer service.
+
+
+
+(III) Order placing and order management
+
+When you choose to settle the product/service, JD.com will generate an order for you to purchase the product. You need to fill in at least the name of your consignee, delivery address (you can manually fill in or allow the system to obtain your location information) and mobile phone number in the order. At the same time, the order will state the order number, the information of the goods or services you purchased, the time of placing the order, the amount of payment you should pay and the payment method. You can also fill in the consignee's contact number, email address, and postal code to add more contact information to ensure that the product can be delivered accurately. Not filling in this information will not affect the generation of your order. If you need to issue an invoice, also need to provide the invoice header, taxpayer identification number and the email address to receive the invoice.
+
+All the above information constitute your "order information". We will use your order information (including with the third party that provides you with the above services) to verify your identity, determine transactions, pay and settle, complete delivery, query orders for you, and provide customer service consultation and after-sales service. We will also use your order information to determine whether there are any abnormalities in your transaction to ensure the security of your transaction. When abnormal behavior is triggered (such as abnormal payment amount), we will collect your location information, but we will not collect the above information for normal users.
+
+
+
+(IV) Payment function
+
+After you place an order, you can choose payment services provided by JD's affiliates or third-party payment institutions that cooperate with JD (including JD Payment, WeChat Pay and UnionPay, Network Connect and other payment channels, hereinafter referred to as "Payment Institutions"). We need to share your JD order number and transaction amount information with these payment institutions to complete the order payment function. When you use the payment function, the payment institution will collect or verify your bank card (including savings cards, credit cards) and other necessary payment information through its page to confirm your payment instructions and complete payment. The corresponding privacy policies of each payment institution are subject to the specific requirements.
+
+In order to understand your payment progress and status, we will collect corresponding payment information from the payment institution you choose, including payment time, payment method, and payment amount.
+
+
+
+(V) Delivery of goods/services
+
+When you complete the order or obtain trial supplies or prizes, JD.com, JD.com's affiliates, suppliers, merchants or delivery companies that cooperate with JD.com will complete the delivery of the order for you. You know and agree that JD.com, JD.com’s affiliates, suppliers, merchants or delivery companies that cooperate with JD.com will use your order information in the above links to ensure that the goods you ordered can be delivered safely.
+
+
+
+(VI) Customer Service and After-sales Service
+
+Our telephone customer service and after-sales functions will use your account information and order information. To ensure the security of your account, our call center customer service and online customer service will use your account information to verify your identity with you. When you need us to provide customer service and after-sales service related to your order information, we will query your order information. In addition, when you apply for a refund or return, we need to collect your contact person, contact information and return address to ensure the completion of corresponding after-sales service.
+
+If you receive a gift or purchase a freight insurance for goods, the freight incurred when you return or exchange may be applied to be compensated by the freight insurance service provider. In order to achieve insurance and claim settlement, we will collect or query the warranty start and end period of the goods you purchased, the express delivery company, the express order number, the return address, and the delivery time information of the goods you purchased.
+
+
+
+(VII) Ensure transaction security
+
+In order to ensure the stability and security of the system when you use our products and/or services, prevent your personal information from being illegally obtained, and more accurately prevent fraud and protect account security, we need to collect your device information (device model, OAID/IDFA, Android ID/OPENUDID, HarmonyOS OAlD, IDFV, operating system and software version, device status, network status, processes in operation of this APP), Bluetooth MAC address, log information, IP address, browsing information, order information, SIM card information (operator and country code), and battery usage to identify whether you are a real natural user. When abnormal behavior is triggered (registered in another place, incorrect password input multiple times, abnormal payment amount, abnormal operation behavior log), we will collect your location information, ssid, WIFI name, and common software list information (only processed locally and will not upload the server), but we will not collect the above information of normal users. We may record some links ("URL") that we believe are risky. We will also collect information about your device to analyze JD system problems, count traffic, and check possible risks, and troubleshoot them when you choose to send us abnormal information. If you do not provide the above information, we will not be able to protect the security of your services and account during your use of JD services.
+
+
+
+(8) Other additional functions
+
+1. Application permission application and usage rules
+
+To make your shopping more convenient or fun and to enhance your online shopping experience on JD.com, we need to access your system permissions to collect and use the required personal information. If you do not enable these permissions, it will not affect your use of our basic features, but you may not be able to use the additional features that bring you shopping fun or need to fill in some information repeatedly when purchasing certain items. closeFor the permissions we need to apply for and the corresponding personal information collection and use purposes, please see here. You can also use "My-Account Settings-Privacy Settings" to make sub-items.
+
+2. Information disclosure rules
+
+During your use of JD services, you can publicly publish your questions, user experience or other content about the product through product reviews, grass planting shows, product Q&A, and live broadcast interaction to obtain merchants’ answers or interactive rewards for your questions. We may determine whether you can use the above information publishing function based on your order information and the content you posted.
+
+Please note that when you publish information, your account information (nickname, avatar, account name) and the content you posted will be made public after you publish it. Please choose with caution. If the information you publish contains other people's personal information, you are required to obtain the consent of others in advance before publishing it.
+
+
+
+(9) Other personal information usage rules
+
+1. In order to statistics and analyze your use of our products or services to assist us in service experience optimization and product upgrade decisions, we will use the collected data to be processed by encryption technology and cannot be re-identified for machine learning, algorithm model training, or other data analysis and mining processing.
+
+2. If we want to use your personal information for purposes not stated in this Privacy Policy, or if we use the information collected for specific purposes for other purposes, we will seek your express consent in advance.
+
+3. Regarding the functions and scenarios not specified in this privacy policy, we will show you the corresponding personal information collection and use rules when you actually use the function or scenario and obtain your express consent.
+
+
+
+2. How we use cookies and similar technologies
+
+1. Use of Cookies
+
+During your use of our services, we will send one or more small data files called Cookies on your computer or mobile device, in order to simplify the steps of repeating login, store your shopping preferences or product data in your shopping cart, and provide you with shopping preferences, help you optimize your advertising selection and interaction, help judge your login status, and account or data security.
+
+You can clear all cookies saved on your computer, and most web browsers will automatically accept cookies, but you can usually modify your browser's settings to reject cookies according to your needs; in addition, you can also clear all cookies saved in the software. If you do this, you may need to change user settings yourself every time you visit JD.com's website, and the corresponding information you have recorded before will be deleted and may have a certain impact on the security of the services you are using.
+
+2. The use of network Beacon and similar technologies
+
+In addition to cookies, we also use Internet Beacon and other similar technologies on our website. Our web pages often contain electronic images (called "single-pixel" GIF files or "network Beacons"). The ways we use the Internet Beacon are:
+
+    (1) By using the Internet Beacon on the JD website, calculate the number of user accesses and identify registered JD users through access cookies.
+
+    (2) Provide you with personalized services through the cookies information you receive.
+
+
+
+3. How we provide your personal information to the outside world
+
+(I) Sharing
+
+1. We will not share your personal information with any company, organization or individual other than JD.com, except for the following situations:
+
+    (1) Obtain your express consent or authorization in advance;
+
+    (2) Provide in accordance with the mandatory requirements of laws and regulations, administrative and judicial departments;
+
+    (3) Handle disputes or disputes between you and others for you at your needs;
+
+    (4) Comply with relevant agreements signed with you (including electronic agreements signed online and corresponding platform rules) or other legal documents;
+
+    (5) Used based on social public interests and public health emergencies that comply with laws and regulations.
+
+2. In order to provide you with relevant products or services, show you content that may be of interest, and protect the security of your account and transactions, we may share your personal information with our affiliates or partners. For details on the sharing content and purpose, please see here. 
+
+Please note that the information you voluntarily share or even publicly when using our services may involve personal information of you or third parties or even sensitive personal information. Please consider and decide carefully when sharing. If there are third-party personal information, pleaseYou make sure you have obtained legal authorization.
+
+
+
+(II) Public disclosure
+
+We will only disclose your personal information publicly if we take safety protection measures that meet industry standards:
+
+    (1) Disclose the corresponding personal information according to the scope of authorization you agree to alone;
+
+    (2) If you seriously violate laws and regulations or relevant agreements and rules, we may disclose your relevant violations and the measures we take against you.
+
+
+
+4. How we protect and save your personal information
+
+(I) Our technology and measures to protect your personal information
+
+We attach great importance to the security of personal information and take all reasonable and feasible measures to protect your personal information:
+
+1. Data security technical measures
+
+We will adopt security protection measures that comply with industry standards, including establishing reasonable institutional norms and security technologies to prevent your personal information from being unauthorized access, use and modification, and to avoid damage or loss of data. For example: JD.com's network services adopt the transmission layer security protocol encryption technology, providing browsing services through https to ensure the security of user data during transmission; when processing personal information, we will use a variety of data desensitization technologies including content replacement and SHA256 to enhance the security of personal information during use.
+
+2. Other security measures taken by JD.com to protect personal information
+
+JD.com manages and regulates the storage and use of personal information by establishing a data classification and grading system, data security management specifications, and data security development specifications; comprehensive security control of data through information contact confidentiality agreements, monitoring and audit mechanisms; JD.com establishes a data security committee and sets up a full-time information protection department and a data security emergency response organization to promote and ensure the security of personal information.
+
+Our underlying cloud technology that stores your personal information has obtained the third-level certification of "Trustful Cloud" certification issued by the Data Center Alliance, passed the third-level certification of the Ministry of Public Security's security level protection, and also obtained the ISO27000 certification. We will also hold security and privacy protection training courses to strengthen employees' awareness of the importance of protecting personal information.
+
+3. Security incident handling
+
+In order to deal with possible risks such as leakage, damage and loss of personal information, we have formulated a number of systems to clarify the classification and classification standards for security incidents and security vulnerabilities and the corresponding processing procedures.
+
+Once a personal information security incident occurs, we will promptly inform you of the basic situation and possible impact of the security incident, the disposal measures we have taken or will take, suggestions for your own prevention and reduction of risks, remedial measures for you, etc. At the same time, we will promptly inform you of the relevant circumstances of the incident by email, letter, phone number, push notification, etc. If it is difficult to inform the subject of personal information one by one, we will issue announcements in a reasonable and effective way. At the same time, we will also actively report the handling of personal information security incidents in accordance with the requirements of the regulatory authorities.
+
+
+
+(II) Save your personal information
+
+1. Your personal information will be stored in the territory of the People's Republic of China. If you use cross-border transaction services and need to transmit your personal information to overseas to complete the transaction, we will obtain your authorization and consent separately and require the recipient to process your personal information in accordance with the data protection agreement signed by both parties, this privacy policy and relevant laws and regulations.
+
+2. During your use of our products and/or services, your personal information will be kept within the period for the purpose described in this policy, and will be determined in conjunction with the provisions of the law that have mandatory retention requirements. For example, the "E-Commerce Law of the People's Republic of China" requires that the storage time for commodity and service information and transaction information shall not be less than three years from the date of completion of the transaction. After the storage period has been exceeded, we will delete your personal information or anonymize it as required by applicable law.
+
+
+
+5. How do you manage your personal information
+
+JD attaches great importance to your attention to personal information and does its best to protect your right to access, correct, delete and withdraw your consent to your personal information, so that you have the full ability to protect your privacy and security. Your rights include:
+
+1. Access and correct your personal information
+
+Except as stipulated by laws and regulations, you have the right to access and correct your personal information at any time, including:
+
+(1) Account information
+
+PC path: Enter the website - click "My JD" - click "Personal Information" in the "Account Settings" menu. If you need to change your real-name authentication information, you can call the 95118 service hotline to apply for the change.
+
+Mobile terminal path: Enter the homepage - click "My" to enter my JD.com - click "Settings in the upper right corner"”Enter account settings—Click on the avatar to enter the personal information page.
+
+(2) Received information
+
+PC path: Enter the website - click "My JD" - click "Shipping Address" in the "Account Settings" menu.
+
+Mobile path: Enter the homepage - click "My" to enter my JD.com - click "Settings" in the upper right corner to enter account settings - click "Address Management".
+
+(3) Order information
+
+PC side path: Enter the website - click on the "My Order" page.
+
+Mobile path: Enter the homepage - click "My" to enter my JD.com - click "My Order".
+
+You can choose to delete completed and cancelled orders, but this may make it difficult for us to accurately judge your order information and provide corresponding after-sales service. You cannot use our order posting and evaluation functions for deleted orders.
+
+(4) Browse information
+
+Mobile path: Enter the homepage - click "My" to enter my JD.com - click "Browse History". 
+
+(5) Comment information
+
+PC path: Enter the website - click "My JD" - click "Evaluation and order posting" in the "Order Center" menu.
+
+Mobile path: Enter the homepage - click "My" to enter my JD.com - click "To be evaluated" to enter the evaluation center.
+
+(6) Invoice information
+
+PC path: Enter the website - click "My JD" - click "Account Settings" menu "Account Settings" to "Account Qualifications".
+
+Mobile path: Enter the homepage - click "My" to enter my JD.com - click "Settings" in the upper right corner to enter account settings - click "Invoice Header Management".
+
+(7) Archive information
+
+Mobile path: Enter the homepage-click "My" to enter my JD.com-click "Settings" in the upper right corner to enter account settings-click "My Profiles".
+
+Please feel free to contact us for other personal information generated during your use of our products and/or services. We will respond to your requests in accordance with the methods and periods set out in this Privacy Policy.
+
+
+
+2. Delete your personal information
+
+You can delete some of your personal information through the access and correction paths listed in this Privacy Policy, or delete all of your personal information by canceling your account.
+
+You may request to us to delete personal information in the following situations:
+
+(1) If our behavior of processing personal information violates laws and regulations;
+
+(2) If we collect or use your personal information without your consent;
+
+(3) If our behavior of processing personal information seriously violates the agreement with you.
+
+If we decide to respond to your deletion request, we will also notify the entities that have obtained your personal information from us as much as possible and require them to be deleted in a timely manner unless otherwise provided by laws and regulations, or those entities have obtained your independent authorization.
+
+When you or we assist you in deleting relevant information, we may not be able to delete the corresponding information from the system immediately due to applicable legal and security technology restrictions. We will safely store your personal information and limit any further processing of it until it can be deleted or anonymized.
+
+
+
+3. Change the scope of your authorization or withdraw your authorization
+
+You can change or withdraw your authorization through the following path:
+
+PC path: Enter "My JD" - click "Authorization Management" or "Account Bind" in "Account Settings".
+
+Mobile path: Enter the homepage - click "My" - click "Settings" in the upper right corner to enter account settings - click "Privacy Settings".
+
+You can also withdraw our authorization to continue collecting your personal information by canceling your account.
+
+Please understand that each business function requires some basic personal information to be completed. After you withdraw your consent or authorization, we cannot continue to provide you with the services corresponding to the withdrawal of consent or authorization, and will no longer process your corresponding personal information. However, your decision to withdraw your consent or authorization will not affect the previous processing of personal information based on your authorization.
+
+
+
+4. Delete the account
+
+You can cancel your account information through the following path:
+
+PC path: Enter the website - click "My JD" - click "Account Security" in "Account Settings" - click "Login Account".
+
+Mobile path: Enter the homepage - click "My" - click "Settings" in the upper right corner to enter account settings - click "Account and Security" - click "Log out of JD APP Account Service".
+
+For details on how you cancel your account and the conditions you should meet, please refer to the "JD APP Account Registration Instructions". After you cancel your account, we will stop providing you with products and/or services, and delete your personal information or anonymize it as required by applicable law.5. Obtain a copy of your personal information
+
+You have the right to obtain a copy of your personal information, and the mobile access path is "My - Account Settings - Privacy Settings - Personal Information Download".
+
+
+
+6. Respond to your request
+
+If you are unable to exercise your rights through the methods or paths specified in this Privacy Policy, you may contact us by email at privacy@jd.com or by other means in this Privacy Policy. To ensure safety, we may require you to provide a written request, or provide your identification documents, and we will respond to your request within 15 days after receiving your feedback and verifying your identity.
+
+In principle, we do not charge any fees for your reasonable request, but we will charge a certain fee for requests that are repeated repeatedly and exceed the reasonable limits. We may reject requests that are unreasonable, require too many technical means (e.g., require the development of a new system or fundamentally change existing practices), bring risks to the legitimate rights and interests of others, or are very impractical (e.g., involving information stored on backup tapes).
+
+
+
+6. Protection of personal information of minors
+
+1. JD.com attaches great importance to the protection of personal information of minors. If you are a minor under the age of 18, you should obtain the consent of your guardian in advance before using our products and/or services.
+
+2. For the personal information of children under the age of 14 that may be involved, we will further take the following measures to protect:
+
+(1) For the collected children's personal information, in addition to complying with the agreements made in this Privacy Policy regarding user personal information, we will also adhere to the principles of legitimate necessity, informed consent, clear purpose, security guarantee, and legal use, and strictly follow the requirements of the "Regulations on the Protection of Children's Personal Information Network" and other laws and regulations for storage, use, and disclosure, and will not exceed the period necessary to achieve the purpose of collection and use. After the expiration, we will delete or anonymize the child's personal information. We will designate a dedicated person to protect children's personal information and set up a special email address for children's personal information protection childrenprivacy@jd.com. We will also formulate internal specialized systems for the protection of children's personal information.
+
+(2) When you as a guardian choose to use JD related services for the custodian children, we may need to collect personal information of the custodian children from you to perform the relevant services necessary to perform the relevant services to you. When you use the listing, review and question-and-answer functions to share product-related information, you may take the initiative to provide us with children's personal information. Please be clear about it and make careful choices.
+
+(3) The child or his guardian has the right to access and correct children's personal information at any time, and may also request correction and deletion to us. If you have any comments, suggestions, complaints or reports regarding matters related to children's personal information, please contact us. We are here to help you.
+
+
+
+7. Notices and revisions
+
+1. In order to provide you with better services and with the development of JD's business, this privacy policy will also be updated. However, without your express consent, we will not reduce your rights under this Privacy Policy. We will issue updated versions on JD.com websites and JD.com mobile terminals and remind you of updates of relevant content through website announcements or other appropriate means before they take effect. You are also asked to visit JD.com to keep abreast of the latest privacy policy.
+
+2. For major changes, we will also provide more significant notifications (we will explain the specific changes to the privacy policy through methods including but not limited to emails, text messages or special reminders on the browsing page).
+
+Material changes referred to in this Privacy Policy include, but are not limited to:
+
+(1) Our service model has undergone major changes. Such as the purpose of processing personal information, the type of personal information processed, the way of using personal information, etc.;
+
+(2) We have undergone major changes in ownership structure, organizational structure, etc. Such as changes in owners caused by business adjustments, bankruptcy mergers and acquisitions, etc.;
+
+(3) The main objects of personal information sharing, transfer or public disclosure have changed;
+
+(4) Your rights and exercises in the processing of personal information have undergone significant changes;
+
+(5) When the responsible departments, contact information and complaint channels for handling personal information security change;
+
+(6) When the personal information security impact assessment report shows that there is a high risk.
+
+3. We will also archive the old version of this privacy policy and click the link at the end of the article to view it.
+
+
+
+8. How to contact us
+
+1. If you have any questions, comments or suggestions regarding this Privacy Policy or your personal information, please contact us through the following methods.
+
+Email address of the person in charge of personal information protection:privacy@jd.com
+
+Contact number: 950618
+
+Contact address: No. 18, Science and Technology Innovation Street, Yizhuang Economic and Technological Development Zone, Beijing
+
+You can also contact us at any time by visiting https://help.jd.com online customer service system or calling any of our customer service phone numbers.
+
+2. Generally, we will reply within 15 days. If you are not satisfied with our reply, especially if our personal information processing behaviors harm your legitimate rights and interests, you can also make complaints or reports to the Internet Information, telecommunications, public security and industrial and commercial regulatory departments.
+
+
+Note: This privacy policy applies to V12.0.0 and above. Click to check the old version.
